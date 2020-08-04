@@ -1,2 +1,2 @@
-# diagrams
+# Diagrams
 Diagrams archive
