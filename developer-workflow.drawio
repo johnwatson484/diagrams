@@ -1,1 +1,172 @@
-<mxfile host="app.diagrams.net" modified="2020-08-07T10:27:34.452Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" version="13.6.0" etag="iFrCPOVzQVqp1xVDpmI7" type="github"><diagram id="_vr3RICttk88R7qIcpim">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-07T11:11:11.540Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="Ga0bmSVjti4aVNNey8cw" version="13.6.0" type="github">
+  <diagram id="_vr3RICttk88R7qIcpim" name="Page-1">
+    <mxGraphModel dx="3076" dy="1882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tuvbX5fWczmDkE51qgNE-1" value="Developer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="47" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tuvbX5fWczmDkE51qgNE-3" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="-725" y="47" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tuvbX5fWczmDkE51qgNE-4" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="47" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tuvbX5fWczmDkE51qgNE-5" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="-694" y="47" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tuvbX5fWczmDkE51qgNE-6" value="Delivery team" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-735" y="80" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tuvbX5fWczmDkE51qgNE-7" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="-790" y="47" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tuvbX5fWczmDkE51qgNE-8" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="-775" y="47" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tuvbX5fWczmDkE51qgNE-9" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="-759" y="47" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tuvbX5fWczmDkE51qgNE-10" value="Business team" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="80" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tuvbX5fWczmDkE51qgNE-13" value="Collaboration to refine and agree requirements" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-800" y="120" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tuvbX5fWczmDkE51qgNE-14" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeColor=none;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-735" y="130" as="sourcePoint" />
+            <mxPoint x="-720" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tuvbX5fWczmDkE51qgNE-17" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-670" y="67" as="sourcePoint" />
+            <mxPoint x="-580" y="67" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tuvbX5fWczmDkE51qgNE-19" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.cloud;" vertex="1" parent="1">
+          <mxGeometry x="-528" y="-33" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tuvbX5fWczmDkE51qgNE-18" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/picol-vector/32/source_code-128.png" vertex="1" parent="1">
+          <mxGeometry x="-505" y="-23" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tuvbX5fWczmDkE51qgNE-20" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.laptop;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="55" width="40" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="tuvbX5fWczmDkE51qgNE-21" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tuvbX5fWczmDkE51qgNE-18" target="tuvbX5fWczmDkE51qgNE-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-250" y="50" as="sourcePoint" />
+            <mxPoint x="-200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tuvbX5fWczmDkE51qgNE-22" value="Developer downloads source code to their device" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-568" y="130" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tuvbX5fWczmDkE51qgNE-23" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-440" y="66" as="sourcePoint" />
+            <mxPoint x="-350" y="66" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tuvbX5fWczmDkE51qgNE-24" value="Developer spends time understand existing codebase" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-100" y="127" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tuvbX5fWczmDkE51qgNE-25" value="Developer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="44" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tuvbX5fWczmDkE51qgNE-26" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.laptop;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="52" width="40" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="tuvbX5fWczmDkE51qgNE-27" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/font-awesome/1792/question-128.png;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-84" y="7" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="tuvbX5fWczmDkE51qgNE-28" value="Developer sets up development environment on their device so they run application ready to make changes" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="150" y="136" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tuvbX5fWczmDkE51qgNE-29" value="Developer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="43" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tuvbX5fWczmDkE51qgNE-30" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.laptop;" vertex="1" parent="1">
+          <mxGeometry x="210" y="51" width="40" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="tuvbX5fWczmDkE51qgNE-33" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.application" vertex="1" parent="1">
+          <mxGeometry x="190" y="3" width="35.29" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="tuvbX5fWczmDkE51qgNE-34" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-210" y="66" as="sourcePoint" />
+            <mxPoint x="-120" y="66" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tuvbX5fWczmDkE51qgNE-35" value="Data" style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=5;align=left;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="250" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tuvbX5fWczmDkE51qgNE-41" value="" style="shape=flexArrow;endArrow=classic;html=1;edgeStyle=entityRelationEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="67" as="sourcePoint" />
+            <mxPoint x="-820" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tuvbX5fWczmDkE51qgNE-44" value="Supported by automated tests, developer writes code to do the behaviour stated in the requirement.&amp;nbsp; Application runs on device" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-810" y="387" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tuvbX5fWczmDkE51qgNE-45" value="Developer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-790" y="294" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tuvbX5fWczmDkE51qgNE-46" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.laptop;" vertex="1" parent="1">
+          <mxGeometry x="-750" y="302" width="40" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="tuvbX5fWczmDkE51qgNE-47" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.application" vertex="1" parent="1">
+          <mxGeometry x="-770" y="254" width="35.29" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="tuvbX5fWczmDkE51qgNE-48" value="Data" style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=5;align=left;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="251" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tuvbX5fWczmDkE51qgNE-49" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/icocentre-free-icons/152/f-code-icon_128-128.png;strokeColor=#000000;fillColor=#FFFF66;fontColor=#000000;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-818" y="250" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="tuvbX5fWczmDkE51qgNE-50" value="Developer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-322" y="44" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tuvbX5fWczmDkE51qgNE-51" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.cloud;" vertex="1" parent="1">
+          <mxGeometry x="-322" y="-32" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tuvbX5fWczmDkE51qgNE-52" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/picol-vector/32/source_code-128.png" vertex="1" parent="1">
+          <mxGeometry x="-299" y="-22" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tuvbX5fWczmDkE51qgNE-53" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.laptop;" vertex="1" parent="1">
+          <mxGeometry x="-282" y="52" width="40" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="tuvbX5fWczmDkE51qgNE-54" value="" style="endArrow=none;html=1;exitX=0.471;exitY=1.125;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endFill=0;exitPerimeter=0;" edge="1" parent="1" source="tuvbX5fWczmDkE51qgNE-56" target="tuvbX5fWczmDkE51qgNE-53">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-22" y="47" as="sourcePoint" />
+            <mxPoint x="28" y="-3" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tuvbX5fWczmDkE51qgNE-55" value="Developer creates their own copy of the full source code where they can make changes without impacting others" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-340" y="137" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tuvbX5fWczmDkE51qgNE-56" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.cloud;" vertex="1" parent="1">
+          <mxGeometry x="-242" y="-33" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tuvbX5fWczmDkE51qgNE-57" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/picol-vector/32/source_code-128.png" vertex="1" parent="1">
+          <mxGeometry x="-219" y="-23" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tuvbX5fWczmDkE51qgNE-58" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="66" as="sourcePoint" />
+            <mxPoint x="130" y="66" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tuvbX5fWczmDkE51qgNE-59" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-675" y="314" as="sourcePoint" />
+            <mxPoint x="-585" y="314" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
