@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-10T12:45:44.113Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="fvBFNKYierNYL5u688c5" version="13.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-10T13:13:30.007Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="s4jsa3Qx9QlQ6Z6mJdZd" version="13.6.0" type="github">
   <diagram id="CI3mNRYyF4VDoe5QjvxF" name="Page-1">
     <mxGraphModel dx="595" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -471,6 +471,39 @@
             <mxPoint x="1547" y="612.5" as="sourcePoint" />
             <mxPoint x="1777" y="612.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Mwrt2MIfaS3BiG5PvJi2-159" value="Pod" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="840" width="150" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Mwrt2MIfaS3BiG5PvJi2-161" value="" style="html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=pod;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1422.5" y="860" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mwrt2MIfaS3BiG5PvJi2-162" value="Application" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1377.5" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mwrt2MIfaS3BiG5PvJi2-163" value="Service Account" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mwrt2MIfaS3BiG5PvJi2-164" value="" style="html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=sa;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1205" y="920" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mwrt2MIfaS3BiG5PvJi2-165" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/social-media-special/260/AWS-128.png;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1422.5" y="920" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mwrt2MIfaS3BiG5PvJi2-166" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_sdk;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="720" width="50" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Mwrt2MIfaS3BiG5PvJi2-167" value="Identity and Access Management" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="878" y="840" width="203" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Mwrt2MIfaS3BiG5PvJi2-168" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.iam;fillColor=#759C3E;gradientColor=none;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="972.44" y="860" width="15.56" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mwrt2MIfaS3BiG5PvJi2-169" value="Application Permissions" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="919.5" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mwrt2MIfaS3BiG5PvJi2-170" value="Token" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1377.5" y="970" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
