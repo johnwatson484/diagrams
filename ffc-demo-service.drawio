@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-14T10:55:02.265Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="2lNBWAk50fHIyZDbmxNe" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-14T11:20:46.920Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="ATiibvGOt9JadRpY53ow" version="13.6.2" type="github">
   <diagram id="79CZyGl81b-DOHCzq7t8" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -322,32 +322,32 @@
         <mxCell id="VIoWFmFOxt6bn29Lq37C-30" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VIoWFmFOxt6bn29Lq37C-5" target="VIoWFmFOxt6bn29Lq37C-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VIoWFmFOxt6bn29Lq37C-34" value="claim service" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="455" y="1654" width="80" height="80" as="geometry" />
+        <mxCell id="VIoWFmFOxt6bn29Lq37C-71" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="VIoWFmFOxt6bn29Lq37C-34" target="VIoWFmFOxt6bn29Lq37C-51">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VIoWFmFOxt6bn29Lq37C-53" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="VIoWFmFOxt6bn29Lq37C-36" target="VIoWFmFOxt6bn29Lq37C-51">
+        <mxCell id="VIoWFmFOxt6bn29Lq37C-34" value="claim service" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="335" y="1811" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VIoWFmFOxt6bn29Lq37C-72" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="VIoWFmFOxt6bn29Lq37C-36" target="VIoWFmFOxt6bn29Lq37C-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VIoWFmFOxt6bn29Lq37C-36" value="web" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1803.5" width="80" height="80" as="geometry" />
+          <mxGeometry x="40" y="1811" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VIoWFmFOxt6bn29Lq37C-60" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="1" source="VIoWFmFOxt6bn29Lq37C-38" target="VIoWFmFOxt6bn29Lq37C-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VIoWFmFOxt6bn29Lq37C-38" value="calculation service" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="455" y="1754" width="80" height="80" as="geometry" />
+          <mxGeometry x="758.5" y="1757" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VIoWFmFOxt6bn29Lq37C-39" value="payment service&lt;br&gt;(Node.js)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="455" y="1853" width="80" height="80" as="geometry" />
+          <mxGeometry x="758.5" y="1856" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VIoWFmFOxt6bn29Lq37C-42" value="Event Demo Service" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="40" y="1726.5" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VIoWFmFOxt6bn29Lq37C-43" value="payment service&lt;br&gt;(.Net Core)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="455" y="1953" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="VIoWFmFOxt6bn29Lq37C-63" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;dashed=1;" edge="1" parent="1" source="VIoWFmFOxt6bn29Lq37C-51" target="VIoWFmFOxt6bn29Lq37C-34">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="758.5" y="1956" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VIoWFmFOxt6bn29Lq37C-64" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontSize=11;" edge="1" parent="1" source="VIoWFmFOxt6bn29Lq37C-51" target="VIoWFmFOxt6bn29Lq37C-38">
           <mxGeometry relative="1" as="geometry" />
@@ -358,20 +358,20 @@
         <mxCell id="VIoWFmFOxt6bn29Lq37C-66" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontSize=11;" edge="1" parent="1" source="VIoWFmFOxt6bn29Lq37C-51" target="VIoWFmFOxt6bn29Lq37C-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VIoWFmFOxt6bn29Lq37C-51" value="&quot;A new claim has arrived!&quot;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="180" y="1813" width="80" height="61" as="geometry" />
+        <mxCell id="VIoWFmFOxt6bn29Lq37C-51" value="&quot;A new claim has been validated&quot;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="445" y="1820.5" width="80" height="61" as="geometry" />
         </mxCell>
         <mxCell id="VIoWFmFOxt6bn29Lq37C-55" value="&quot;I will save it&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="354" y="1726.5" width="85" height="23" as="geometry" />
+          <mxGeometry x="240" y="1858.5" width="85" height="23" as="geometry" />
         </mxCell>
         <mxCell id="VIoWFmFOxt6bn29Lq37C-56" value="&quot;I will calculate it&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="359" y="1811" width="92.5" height="23" as="geometry" />
+          <mxGeometry x="662.5" y="1814" width="92.5" height="23" as="geometry" />
         </mxCell>
         <mxCell id="VIoWFmFOxt6bn29Lq37C-57" value="&quot;I will schedule a payment for it&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="350.25" y="1900" width="92.5" height="23" as="geometry" />
+          <mxGeometry x="653.75" y="1903" width="92.5" height="23" as="geometry" />
         </mxCell>
         <mxCell id="VIoWFmFOxt6bn29Lq37C-58" value="&quot;I will schedule a payment for it&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="346.5" y="2000" width="92.5" height="23" as="geometry" />
+          <mxGeometry x="650" y="2003" width="92.5" height="23" as="geometry" />
         </mxCell>
         <mxCell id="VIoWFmFOxt6bn29Lq37C-67" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontSize=11;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VIoWFmFOxt6bn29Lq37C-59" target="VIoWFmFOxt6bn29Lq37C-39">
           <mxGeometry relative="1" as="geometry" />
@@ -380,13 +380,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VIoWFmFOxt6bn29Lq37C-59" value="&quot;A calculation has completed!&quot;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="670" y="1763.5" width="80" height="61" as="geometry" />
+          <mxGeometry x="973.5" y="1766.5" width="80" height="61" as="geometry" />
         </mxCell>
         <mxCell id="VIoWFmFOxt6bn29Lq37C-61" value="&quot;I will add the value to the schedule&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="550" y="1898.25" width="105" height="26.5" as="geometry" />
+          <mxGeometry x="853.5" y="1901.25" width="105" height="26.5" as="geometry" />
         </mxCell>
         <mxCell id="VIoWFmFOxt6bn29Lq37C-62" value="&quot;I will add the value to the schedule&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1996.5" width="105" height="26.5" as="geometry" />
+          <mxGeometry x="863.5" y="1999.5" width="105" height="26.5" as="geometry" />
+        </mxCell>
+        <mxCell id="VIoWFmFOxt6bn29Lq37C-73" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;dashed=1;" edge="1" parent="1" source="VIoWFmFOxt6bn29Lq37C-70" target="VIoWFmFOxt6bn29Lq37C-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VIoWFmFOxt6bn29Lq37C-70" value="&quot;A new claim has been submitted&quot;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1820.5" width="80" height="61" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
