@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-08-28T14:55:16.477Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="InaT20joBhjaV-tPgptU" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-28T15:30:12.898Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="QXX9ow5xmSwtbtgity5D" version="13.6.4" type="github">
   <diagram id="WwRyX580Gz_US5-TEHts" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Hx3EBJc8rD5splnx2m_5-261" value="CI Pipeline (segment)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="670" y="2640" width="940" height="120" as="geometry" />
+        </mxCell>
         <mxCell id="Hx3EBJc8rD5splnx2m_5-233" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hx3EBJc8rD5splnx2m_5-232" target="Hx3EBJc8rD5splnx2m_5-225">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1031,6 +1034,95 @@
         </mxCell>
         <mxCell id="Hx3EBJc8rD5splnx2m_5-231" value="ELM Queue 2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="965" y="2320" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hx3EBJc8rD5splnx2m_5-242" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Hx3EBJc8rD5splnx2m_5-238" target="Hx3EBJc8rD5splnx2m_5-239">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hx3EBJc8rD5splnx2m_5-244" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;" edge="1" parent="1" source="Hx3EBJc8rD5splnx2m_5-238" target="Hx3EBJc8rD5splnx2m_5-243">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hx3EBJc8rD5splnx2m_5-238" value="Provision queues for integration test" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="679" y="2680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hx3EBJc8rD5splnx2m_5-239" value="Azure Service Bus" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="859" y="2803" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Hx3EBJc8rD5splnx2m_5-240" value="ELM Queue 1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="874" y="2825" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hx3EBJc8rD5splnx2m_5-241" value="ELM Queue 2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="874" y="2870" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hx3EBJc8rD5splnx2m_5-245" value="Authenticated with SAS" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hx3EBJc8rD5splnx2m_5-243">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="939" y="2800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hx3EBJc8rD5splnx2m_5-247" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;" edge="1" parent="1" source="Hx3EBJc8rD5splnx2m_5-243" target="Hx3EBJc8rD5splnx2m_5-246">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hx3EBJc8rD5splnx2m_5-243" value="Run Integration tests" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="879" y="2680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hx3EBJc8rD5splnx2m_5-248" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Hx3EBJc8rD5splnx2m_5-246" target="Hx3EBJc8rD5splnx2m_5-239">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hx3EBJc8rD5splnx2m_5-250" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;" edge="1" parent="1" source="Hx3EBJc8rD5splnx2m_5-246" target="Hx3EBJc8rD5splnx2m_5-249">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hx3EBJc8rD5splnx2m_5-246" value="Remove queues for integration tests" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="1079" y="2680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hx3EBJc8rD5splnx2m_5-254" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hx3EBJc8rD5splnx2m_5-249" target="Hx3EBJc8rD5splnx2m_5-251">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hx3EBJc8rD5splnx2m_5-256" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;" edge="1" parent="1" source="Hx3EBJc8rD5splnx2m_5-249" target="Hx3EBJc8rD5splnx2m_5-255">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hx3EBJc8rD5splnx2m_5-249" value="Provision queues for PR deployment" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="1279" y="2680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hx3EBJc8rD5splnx2m_5-251" value="Azure Service Bus" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="2803" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Hx3EBJc8rD5splnx2m_5-252" value="ELM Queue 1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1225" y="2825" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hx3EBJc8rD5splnx2m_5-253" value="ELM Queue 2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1225" y="2870" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hx3EBJc8rD5splnx2m_5-258" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hx3EBJc8rD5splnx2m_5-255" target="Hx3EBJc8rD5splnx2m_5-257">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hx3EBJc8rD5splnx2m_5-255" value="Deploy PR microservice" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="1479" y="2680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hx3EBJc8rD5splnx2m_5-257" value="Azure Kubernetes Service" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="2803" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Hx3EBJc8rD5splnx2m_5-259" value="App" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="1535" y="2828" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Hx3EBJc8rD5splnx2m_5-260" value="Authenticated&lt;br&gt;with&lt;br&gt;Pod Identity" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Hx3EBJc8rD5splnx2m_5-259" target="Hx3EBJc8rD5splnx2m_5-251">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hx3EBJc8rD5splnx2m_5-262" value="Cleanup Pipeline (segment)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1265" y="2970" width="350" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Hx3EBJc8rD5splnx2m_5-265" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;" edge="1" parent="1" source="Hx3EBJc8rD5splnx2m_5-266" target="Hx3EBJc8rD5splnx2m_5-268">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hx3EBJc8rD5splnx2m_5-272" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hx3EBJc8rD5splnx2m_5-266" target="Hx3EBJc8rD5splnx2m_5-251">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hx3EBJc8rD5splnx2m_5-266" value="Remove queues for PR deployment" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="1279" y="3010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hx3EBJc8rD5splnx2m_5-273" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hx3EBJc8rD5splnx2m_5-268" target="Hx3EBJc8rD5splnx2m_5-257">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hx3EBJc8rD5splnx2m_5-268" value="Remove PR microservice" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="1479" y="3010" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
