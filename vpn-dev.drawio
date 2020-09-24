@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-09-24T12:34:18.007Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="KSpCAwqgF-L4D_cINy0L" version="13.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-24T12:35:38.314Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="VmVDoJvzOW-CvCzaM_U0" version="13.7.1" type="github">
   <diagram id="dkLe30TZ-h5M13zRIJKL" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="U-plBan6W6VH21_ODKo_-47" value="VPN" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="260" y="130" width="140" height="620" as="geometry" />
+        </mxCell>
         <mxCell id="U-plBan6W6VH21_ODKo_-46" value="Azure" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="420" y="20" width="220" height="730" as="geometry" />
         </mxCell>
