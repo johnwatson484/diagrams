@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2020-09-29T09:50:42.133Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="6F1n__MBfYu_mejxQlr8" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-29T10:01:07.618Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="RgEPU9KOo3TRrb6trFm9" version="13.7.5" type="github">
   <diagram id="W0KKAz5bjWG7b2wjCoR6" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SLpyQJ8uTNN4E46GBQCa-1" value="FFC Service" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="SLpyQJ8uTNN4E46GBQCa-1" value="FFC Web Service" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="190" y="290" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="SLpyQJ8uTNN4E46GBQCa-2" value="Google Analytics" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
@@ -13,7 +13,7 @@
         <mxCell id="SLpyQJ8uTNN4E46GBQCa-3" value="Google Tag Manager" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="360" y="160" width="160" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="SLpyQJ8uTNN4E46GBQCa-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;curved=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="SLpyQJ8uTNN4E46GBQCa-4" target="SLpyQJ8uTNN4E46GBQCa-1">
+        <mxCell id="SLpyQJ8uTNN4E46GBQCa-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;curved=1;fillColor=#dae8fc;strokeColor=#6c8ebf;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SLpyQJ8uTNN4E46GBQCa-1" target="SLpyQJ8uTNN4E46GBQCa-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SLpyQJ8uTNN4E46GBQCa-9" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="SLpyQJ8uTNN4E46GBQCa-4" target="SLpyQJ8uTNN4E46GBQCa-7">
@@ -27,6 +27,44 @@
         </mxCell>
         <mxCell id="SLpyQJ8uTNN4E46GBQCa-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/infographic-bar-vol-9/512/1-128.png" vertex="1" parent="1">
           <mxGeometry x="590" y="176" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="SLpyQJ8uTNN4E46GBQCa-10" value="FFC Service 1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="100" y="610" width="65" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="SLpyQJ8uTNN4E46GBQCa-11" value="FFC Service 2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="170" y="610" width="65" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="SLpyQJ8uTNN4E46GBQCa-12" value="FFC Service 3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="240" y="610" width="65" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="SLpyQJ8uTNN4E46GBQCa-13" value="Azure" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="320" y="415" width="390" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="SLpyQJ8uTNN4E46GBQCa-14" value="Application Insights" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="360" y="475" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SLpyQJ8uTNN4E46GBQCa-15" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" target="SLpyQJ8uTNN4E46GBQCa-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="535" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SLpyQJ8uTNN4E46GBQCa-18" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/infographic-bar-vol-9/512/1-128.png" vertex="1" parent="1">
+          <mxGeometry x="590" y="491" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="SLpyQJ8uTNN4E46GBQCa-19" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Application_Insights.svg;" vertex="1" parent="1">
+          <mxGeometry x="424" y="509" width="32" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SLpyQJ8uTNN4E46GBQCa-21" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="SLpyQJ8uTNN4E46GBQCa-11" target="SLpyQJ8uTNN4E46GBQCa-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SLpyQJ8uTNN4E46GBQCa-20" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="SLpyQJ8uTNN4E46GBQCa-10" target="SLpyQJ8uTNN4E46GBQCa-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SLpyQJ8uTNN4E46GBQCa-22" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="SLpyQJ8uTNN4E46GBQCa-12" target="SLpyQJ8uTNN4E46GBQCa-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SLpyQJ8uTNN4E46GBQCa-24" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#DF8C42;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.azure;" vertex="1" parent="1">
+          <mxGeometry x="500" y="440" width="32" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
