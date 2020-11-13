@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-13T13:00:10.191Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="WILtIu1FoMEScqmE9frN" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-13T13:28:52.990Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="_GIJ7YuIJP0emhGtkj1L" version="13.9.2" type="github">
   <diagram id="1HbvbAI33iPZgwU_z9_h" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -51,7 +51,7 @@
           <mxGeometry x="409" y="1600" width="150" height="430" as="geometry" />
         </mxCell>
         <mxCell id="XttSB8-ySWwSTw9pb_Si-74" value="Public Cloud" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="30" y="1370" width="150" height="390" as="geometry" />
+          <mxGeometry x="30" y="1370" width="150" height="570" as="geometry" />
         </mxCell>
         <mxCell id="ZZ-KA2M3GGoIeQwi2uxn-84" value="CI pipeline" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="30" y="800" width="1510" height="300" as="geometry" />
@@ -326,11 +326,8 @@
         <mxCell id="XttSB8-ySWwSTw9pb_Si-41" value="Application Insights" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="588" y="1270" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XttSB8-ySWwSTw9pb_Si-43" value="Azure Kubernetes Service" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="XttSB8-ySWwSTw9pb_Si-43" value="Azure Container Instances" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="253" y="1270" width="130" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="XttSB8-ySWwSTw9pb_Si-44" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Kubernetes_Services.svg;" parent="1" vertex="1">
-          <mxGeometry x="303" y="1313.9" width="30" height="22.2" as="geometry" />
         </mxCell>
         <mxCell id="XttSB8-ySWwSTw9pb_Si-45" value="Azure Kubernetes Service" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="418" y="1670" width="130" height="80" as="geometry" />
@@ -529,7 +526,7 @@
           <mxGeometry x="758" y="1460" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XttSB8-ySWwSTw9pb_Si-127" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/API_Management.svg;" parent="1" vertex="1">
-          <mxGeometry x="798" y="1488.82" width="50" height="42" as="geometry" />
+          <mxGeometry x="810" y="1494.6999999999998" width="30" height="25.2" as="geometry" />
         </mxCell>
         <mxCell id="XttSB8-ySWwSTw9pb_Si-142" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;xN&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="506.25" y="1725" width="40" height="20" as="geometry" />
@@ -637,7 +634,7 @@
           <mxGeometry x="1880" y="472" width="30" height="28.8" as="geometry" />
         </mxCell>
         <mxCell id="5AYMjjJfYT_8o8zNVYaN-1" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/devops/Azure_DevOps.svg;" vertex="1" parent="1">
-          <mxGeometry x="803.82" y="1395.1" width="35.18" height="35.18" as="geometry" />
+          <mxGeometry x="808" y="1401.4599999999998" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5AYMjjJfYT_8o8zNVYaN-2" value="Artifactory" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="416.25" y="1456.72" width="130" height="80" as="geometry" />
@@ -662,6 +659,21 @@
         </mxCell>
         <mxCell id="5AYMjjJfYT_8o8zNVYaN-10" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;xN&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="1725" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5AYMjjJfYT_8o8zNVYaN-11" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Container_Instances.svg;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1310.15" width="30" height="31.88" as="geometry" />
+        </mxCell>
+        <mxCell id="5AYMjjJfYT_8o8zNVYaN-12" value="npm" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1760" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5AYMjjJfYT_8o8zNVYaN-13" value="Nuget" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1850" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5AYMjjJfYT_8o8zNVYaN-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/vector-brand-logos/40/NPM-128.png" vertex="1" parent="1">
+          <mxGeometry x="85" y="1795" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5AYMjjJfYT_8o8zNVYaN-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/nuget-128.png" vertex="1" parent="1">
+          <mxGeometry x="90" y="1890" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
