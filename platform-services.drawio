@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-16T12:49:20.748Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="0y_K5LrrbkoZ20mYK3WZ" version="13.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-17T11:06:25.553Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="AN5_0_rGVYKWJvjP3GL2" version="13.9.7" type="github">
   <diagram id="1HbvbAI33iPZgwU_z9_h" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -51,7 +51,7 @@
           <mxGeometry x="409" y="1600" width="150" height="430" as="geometry" />
         </mxCell>
         <mxCell id="XttSB8-ySWwSTw9pb_Si-74" value="Public Cloud" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="30" y="1370" width="150" height="570" as="geometry" />
+          <mxGeometry x="30" y="1370" width="150" height="660" as="geometry" />
         </mxCell>
         <mxCell id="ZZ-KA2M3GGoIeQwi2uxn-84" value="CI pipeline" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="30" y="800" width="1510" height="300" as="geometry" />
@@ -543,7 +543,12 @@
           <mxGeometry x="1200" y="290" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XttSB8-ySWwSTw9pb_Si-154" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="XttSB8-ySWwSTw9pb_Si-145" target="XttSB8-ySWwSTw9pb_Si-150" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1730" y="290" />
+              <mxPoint x="1730" y="290" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="XttSB8-ySWwSTw9pb_Si-145" value="API Management" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="1570" y="250" width="130" height="80" as="geometry" />
@@ -685,6 +690,9 @@
         </mxCell>
         <mxCell id="alIwyyIn047EP93hqslB-4" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Application_Gateway.svg;" vertex="1" parent="1">
           <mxGeometry x="1412.5" y="276.5" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="alIwyyIn047EP93hqslB-6" value="BrowserStack" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1940" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
