@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-18T10:39:48.981Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="w9BCtf3w_-xD0WinUZk_" version="13.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-18T11:49:42.760Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="zRwynKAnj3jiDOFMvU0P" version="13.9.7" type="github">
   <diagram id="Zxl6rNeQSfl6gtLdRYCG" name="Page-1">
     <mxGraphModel dx="595" dy="-407" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="2070.65" y="2351" width="150" height="130" as="geometry" />
         </mxCell>
         <mxCell id="ekNoU6BbKH5wNLZQNW3d-238" value="Jenkins" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="2388" y="1961" width="150" height="130" as="geometry" />
+          <mxGeometry x="2552.65" y="1961" width="150" height="130" as="geometry" />
         </mxCell>
         <mxCell id="ekNoU6BbKH5wNLZQNW3d-213" value="Azure DevOps" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1654" y="2351" width="275.3" height="130" as="geometry" />
@@ -240,9 +240,6 @@
         <mxCell id="ekNoU6BbKH5wNLZQNW3d-210" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ekNoU6BbKH5wNLZQNW3d-206" target="ekNoU6BbKH5wNLZQNW3d-208">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ekNoU6BbKH5wNLZQNW3d-212" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ekNoU6BbKH5wNLZQNW3d-206" target="ekNoU6BbKH5wNLZQNW3d-211">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ekNoU6BbKH5wNLZQNW3d-206" value="Development workflow" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/music-ui-solid-24px/24/repeat_replay_arrow_loop_cycle-2-128.png;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="2249" y="1986" width="128" height="128" as="geometry" />
         </mxCell>
@@ -253,10 +250,10 @@
           <mxGeometry x="2303.7" y="1910" width="18.61" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ekNoU6BbKH5wNLZQNW3d-211" value="Package and version service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="2403" y="2020" width="120" height="60" as="geometry" />
+          <mxGeometry x="2567.65" y="2020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ekNoU6BbKH5wNLZQNW3d-214" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/jenkins-128.png;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="2448.5" y="1986" width="29" height="29" as="geometry" />
+          <mxGeometry x="2613.15" y="1986" width="29" height="29" as="geometry" />
         </mxCell>
         <mxCell id="ekNoU6BbKH5wNLZQNW3d-226" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ekNoU6BbKH5wNLZQNW3d-215" target="ekNoU6BbKH5wNLZQNW3d-225">
           <mxGeometry relative="1" as="geometry" />
@@ -412,26 +409,28 @@
           <mxGeometry x="2596.65" y="2568" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ekNoU6BbKH5wNLZQNW3d-278" value="Jira" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="2559" y="1960" width="150" height="130" as="geometry" />
+          <mxGeometry x="2723.65" y="1960" width="150" height="130" as="geometry" />
         </mxCell>
         <mxCell id="ekNoU6BbKH5wNLZQNW3d-279" value="" style="image;image=img/lib/atlassian/Jira_Logo.svg;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="2620.5" y="1985" width="27" height="30" as="geometry" />
+          <mxGeometry x="2785.15" y="1985" width="27" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ekNoU6BbKH5wNLZQNW3d-285" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ekNoU6BbKH5wNLZQNW3d-280" target="ekNoU6BbKH5wNLZQNW3d-215">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2740" y="2050" />
-              <mxPoint x="2740" y="2230" />
+              <mxPoint x="2890" y="2050" />
+              <mxPoint x="2890" y="2240" />
+              <mxPoint x="2190" y="2240" />
+              <mxPoint x="2190" y="2230" />
               <mxPoint x="1630" y="2230" />
               <mxPoint x="1630" y="2440" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ekNoU6BbKH5wNLZQNW3d-280" value="Close ticket" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="2575.5" y="2020" width="120" height="60" as="geometry" />
+          <mxGeometry x="2740.15" y="2020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ekNoU6BbKH5wNLZQNW3d-281" value="Delivery team" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-1-1/50/group-customers-team-contacts-family-128.png" vertex="1" parent="1">
-          <mxGeometry x="2600.5" y="2100" width="70" height="70" as="geometry" />
+          <mxGeometry x="2765.15" y="2100" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ekNoU6BbKH5wNLZQNW3d-283" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ekNoU6BbKH5wNLZQNW3d-211" target="ekNoU6BbKH5wNLZQNW3d-280">
           <mxGeometry relative="1" as="geometry" />
@@ -449,6 +448,30 @@
         </mxCell>
         <mxCell id="ekNoU6BbKH5wNLZQNW3d-286" value="Tag contract" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="2464.99" y="1280.0000000000002" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ekNoU6BbKH5wNLZQNW3d-294" value="GitHub" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="2390" y="1960" width="150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ekNoU6BbKH5wNLZQNW3d-295" value="" style="shape=actor;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="2440.39" y="2100" width="49.22" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ekNoU6BbKH5wNLZQNW3d-296" value="Review and merge pull request" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2405" y="2020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ekNoU6BbKH5wNLZQNW3d-297" value="Developer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2445" y="2174" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ekNoU6BbKH5wNLZQNW3d-298" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-social-github-128.png" vertex="1" parent="1">
+          <mxGeometry x="2450" y="1985" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ekNoU6BbKH5wNLZQNW3d-299" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ekNoU6BbKH5wNLZQNW3d-206" target="ekNoU6BbKH5wNLZQNW3d-296">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ekNoU6BbKH5wNLZQNW3d-300" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ekNoU6BbKH5wNLZQNW3d-296" target="ekNoU6BbKH5wNLZQNW3d-211">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2570" y="2140" as="sourcePoint" />
+            <mxPoint x="2620" y="2090" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
