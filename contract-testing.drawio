@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-18T11:54:51.764Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="RcjJQKwRg1p-RPOZPc2l" version="13.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-18T12:14:54.425Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="usLB1fQ8jDDoowyKrARZ" version="13.9.7" type="github">
   <diagram id="RtYBvidma2i4aKOaTyV1" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -30,10 +30,10 @@
             <mxPoint x="730" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6JY8YTlF_zlxLqDkcj-Z-4" value="Publish contract&lt;br&gt;Tags: &lt;b&gt;PR&lt;/b&gt; or &lt;b&gt;Main&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6JY8YTlF_zlxLqDkcj-Z-4" value="Publish contract&lt;br&gt;(Main build only)&lt;br&gt;Tag: &lt;b&gt;main&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6JY8YTlF_zlxLqDkcj-Z-30" value="Webhook trigger" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6JY8YTlF_zlxLqDkcj-Z-8" target="6JY8YTlF_zlxLqDkcj-Z-21">
+        <mxCell id="6JY8YTlF_zlxLqDkcj-Z-30" value="Webhook trigger main build" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6JY8YTlF_zlxLqDkcj-Z-8" target="6JY8YTlF_zlxLqDkcj-Z-21">
           <mxGeometry x="-0.3214" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -66,7 +66,7 @@
         <mxCell id="6JY8YTlF_zlxLqDkcj-Z-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="6JY8YTlF_zlxLqDkcj-Z-23" target="6JY8YTlF_zlxLqDkcj-Z-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6JY8YTlF_zlxLqDkcj-Z-23" value="Run contract tests" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6JY8YTlF_zlxLqDkcj-Z-23" value="Run contract tests&lt;br&gt;Tags: &lt;b&gt;main, dev, test, preprod, prod&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6JY8YTlF_zlxLqDkcj-Z-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" target="6JY8YTlF_zlxLqDkcj-Z-23">
