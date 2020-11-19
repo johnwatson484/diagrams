@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-18T12:19:41.181Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="GjoYqWKXTbWQnbm7E-a0" version="13.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-19T09:55:11.066Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="JdZU1CSZcTQgci0PuASq" version="13.9.7" type="github">
   <diagram id="RtYBvidma2i4aKOaTyV1" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -131,6 +131,54 @@
               <mxPoint x="400" y="730" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="6JY8YTlF_zlxLqDkcj-Z-48" value="&amp;nbsp;Provider release" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="900" width="700" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="6JY8YTlF_zlxLqDkcj-Z-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6JY8YTlF_zlxLqDkcj-Z-50" target="6JY8YTlF_zlxLqDkcj-Z-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6JY8YTlF_zlxLqDkcj-Z-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="6JY8YTlF_zlxLqDkcj-Z-50" target="6JY8YTlF_zlxLqDkcj-Z-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="880" />
+              <mxPoint x="400" y="880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6JY8YTlF_zlxLqDkcj-Z-50" value="Check contracts are compatible with existing services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6JY8YTlF_zlxLqDkcj-Z-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6JY8YTlF_zlxLqDkcj-Z-52" target="6JY8YTlF_zlxLqDkcj-Z-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6JY8YTlF_zlxLqDkcj-Z-52" value="Deploy application" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6JY8YTlF_zlxLqDkcj-Z-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="6JY8YTlF_zlxLqDkcj-Z-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6JY8YTlF_zlxLqDkcj-Z-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="6JY8YTlF_zlxLqDkcj-Z-54" target="6JY8YTlF_zlxLqDkcj-Z-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="880" />
+              <mxPoint x="400" y="880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6JY8YTlF_zlxLqDkcj-Z-54" value="Update contract tag" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6JY8YTlF_zlxLqDkcj-Z-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="979.5" as="sourcePoint" />
+            <mxPoint x="130" y="979.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6JY8YTlF_zlxLqDkcj-Z-56" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/devops/Azure_DevOps.svg;" vertex="1" parent="1">
+          <mxGeometry x="79.99999999999955" y="926" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
