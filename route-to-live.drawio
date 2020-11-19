@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-19T11:01:06.883Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="9YGs6rYotXx4t45LqFu6" version="13.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-19T11:13:02.512Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="wFiNs4RzCpNMOoJJwFhU" version="13.9.7" type="github">
   <diagram id="xP5_FbwwGda95Il9tesg" name="Page-1">
     <mxGraphModel dx="1422" dy="1965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -979,7 +979,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Fo95zUcXBccB7MAIhO11-411" value="Public cloud" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=center;verticalAlign=top;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="1860" y="1139.2" width="142.99" height="99.1" as="geometry" />
+          <mxGeometry x="1860" y="1139.2" width="142.99" height="100.8" as="geometry" />
         </mxCell>
         <mxCell id="Fo95zUcXBccB7MAIhO11-412" value="DockerHub" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1872.0000000000002" y="1168.85" width="120" height="60" as="geometry" />
@@ -988,6 +988,18 @@
           <mxGeometry x="1918.8999999999999" y="1194.0000000000002" width="26.2" height="26.2" as="geometry" />
         </mxCell>
         <mxCell id="Fo95zUcXBccB7MAIhO11-415" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontSize=12;" edge="1" parent="1" source="Fo95zUcXBccB7MAIhO11-237" target="Fo95zUcXBccB7MAIhO11-412">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fo95zUcXBccB7MAIhO11-416" value="Public cloud" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=center;verticalAlign=top;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="1038.51" y="1140" width="142.99" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Fo95zUcXBccB7MAIhO11-417" value="DockerHub" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1050.0000000000002" y="1173" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fo95zUcXBccB7MAIhO11-418" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-128.png;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1096.8999999999999" y="1198.1500000000003" width="26.2" height="26.2" as="geometry" />
+        </mxCell>
+        <mxCell id="Fo95zUcXBccB7MAIhO11-419" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=12;" edge="1" parent="1" source="Fo95zUcXBccB7MAIhO11-115" target="Fo95zUcXBccB7MAIhO11-417">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
