@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-15T11:26:55.553Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="F6fVRjJJezRYHdplS_P7" version="14.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-15T11:35:00.963Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="t7lx4Nj8W3y3L901oDvW" version="14.0.0" type="github">
   <diagram id="KU0sMhHqKPi8_qYDvIS2" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -254,6 +254,18 @@
         </mxCell>
         <mxCell id="74OMjvepdF4CJUo03_EW-89" value="Azure AD" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Active_Directory.svg;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="640" y="230" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="74OMjvepdF4CJUo03_EW-104" value="Virtual Network" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Virtual_Network.svg;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="30" height="16.8" as="geometry" />
+        </mxCell>
+        <mxCell id="74OMjvepdF4CJUo03_EW-105" value="Network Security &lt;br&gt;Group" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Network_Security_Groups_Classic.svg;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="47.5" y="244.87" width="15" height="20.27" as="geometry" />
+        </mxCell>
+        <mxCell id="74OMjvepdF4CJUo03_EW-106" value="" style="html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=ns;align=left;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="43.02000000000001" y="310" width="23.96" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="74OMjvepdF4CJUo03_EW-107" value="Namespace" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="35" y="338" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
