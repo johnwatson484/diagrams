@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2020-12-15T09:52:57.544Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="14.0.0" etag="hlqhuXkK_YZQWCVUOH5C" type="github"><diagram id="KU0sMhHqKPi8_qYDvIS2">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-15T10:06:30.231Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="4Y-ulbyG_aUd1Yn7QraL" version="14.0.0" type="github">
+  <diagram id="KU0sMhHqKPi8_qYDvIS2" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="74OMjvepdF4CJUo03_EW-1" value="External User" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+          <mxGeometry x="279" y="70" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="74OMjvepdF4CJUo03_EW-2" value="Internal User" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+          <mxGeometry x="489" y="70" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="74OMjvepdF4CJUo03_EW-7" value="Internet" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.cloud;" vertex="1" parent="1">
+          <mxGeometry x="379" y="180" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="74OMjvepdF4CJUo03_EW-8" value="Azure DNS" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/DNS.svg;" vertex="1" parent="1">
+          <mxGeometry x="499" y="180" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="74OMjvepdF4CJUo03_EW-9" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;b&gt;Azure North Europe&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="34" y="400" width="760" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="74OMjvepdF4CJUo03_EW-10" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="324" y="380" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="74OMjvepdF4CJUo03_EW-12" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Application_Gateway.svg;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="384" y="400" width="50" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
