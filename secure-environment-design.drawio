@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-08T13:06:24.010Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="ZXArzkh3Ul0Vxc9Zy0Mh" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-08T13:11:02.978Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="mWXL8mDLOKV7ja2l2aH8" version="14.1.8" type="github">
   <diagram id="KU0sMhHqKPi8_qYDvIS2" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,7 +42,7 @@
           <mxGeometry x="422.86" y="110" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="74OMjvepdF4CJUo03_EW-20" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Key.svg;" parent="1" vertex="1">
-          <mxGeometry x="291.98000000000013" y="500" width="18.6" height="30" as="geometry" />
+          <mxGeometry x="287.2600000000001" y="500" width="18.6" height="30" as="geometry" />
         </mxCell>
         <mxCell id="74OMjvepdF4CJUo03_EW-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" target="74OMjvepdF4CJUo03_EW-22" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -283,6 +283,9 @@
         </mxCell>
         <mxCell id="CUomA4a6yW1dqQNPH7AJ-12" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vpn;" vertex="1" parent="1">
           <mxGeometry x="532.84" y="250" width="40" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="CUomA4a6yW1dqQNPH7AJ-13" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Virtual_Network.svg;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="112.10000000000001" y="400" width="30" height="16.8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
