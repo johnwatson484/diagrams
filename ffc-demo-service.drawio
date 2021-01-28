@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T11:44:48.830Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="yXf6G5gIcEGDsJiEVl0j" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-28T11:47:53.946Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="wUe-0Cgz88glUR8OhkPv" version="14.2.4" type="github">
   <diagram id="79CZyGl81b-DOHCzq7t8" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -718,6 +718,9 @@
         <mxCell id="0EO_akTCqpijB6gP8QeW-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0EO_akTCqpijB6gP8QeW-53" target="0EO_akTCqpijB6gP8QeW-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="0EO_akTCqpijB6gP8QeW-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0EO_akTCqpijB6gP8QeW-53" target="0EO_akTCqpijB6gP8QeW-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0EO_akTCqpijB6gP8QeW-53" value="Event Hub" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/analytics/Event_Hubs.svg;" vertex="1" parent="1">
           <mxGeometry x="2330" y="1855.77" width="60" height="53.73" as="geometry" />
         </mxCell>
@@ -826,6 +829,30 @@
         </mxCell>
         <mxCell id="0EO_akTCqpijB6gP8QeW-76" value="Payment Topic" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Service_Bus.svg;" vertex="1" parent="1">
           <mxGeometry x="2130" y="1766.5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0EO_akTCqpijB6gP8QeW-82" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="1562.5" y="1329.67" width="25" height="33.33" as="geometry" />
+        </mxCell>
+        <mxCell id="0EO_akTCqpijB6gP8QeW-83" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="2012.5" y="1371.3300000000002" width="25" height="33.33" as="geometry" />
+        </mxCell>
+        <mxCell id="0EO_akTCqpijB6gP8QeW-84" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="2012.5" y="1481" width="25" height="33.33" as="geometry" />
+        </mxCell>
+        <mxCell id="0EO_akTCqpijB6gP8QeW-85" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="1780.3400000000001" width="25" height="33.33" as="geometry" />
+        </mxCell>
+        <mxCell id="0EO_akTCqpijB6gP8QeW-86" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="2012.5" y="1824.3000000000002" width="25" height="33.33" as="geometry" />
+        </mxCell>
+        <mxCell id="0EO_akTCqpijB6gP8QeW-87" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="2012.5" y="1927.75" width="25" height="33.33" as="geometry" />
+        </mxCell>
+        <mxCell id="0EO_akTCqpijB6gP8QeW-88" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="2502.5" y="1828.97" width="25" height="33.33" as="geometry" />
+        </mxCell>
+        <mxCell id="0EO_akTCqpijB6gP8QeW-89" value="Blob Storage" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage_blob;" vertex="1" parent="1">
+          <mxGeometry x="2420" y="1961.5" width="50" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
