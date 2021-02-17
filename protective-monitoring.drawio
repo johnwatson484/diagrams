@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-02-17T17:01:00.197Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="6zs9Q83BEE0t5JcHU4b8" version="14.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-17T17:06:54.400Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="Cq1xMo95M-ZcXjQFIxCK" version="14.3.2" type="github">
   <diagram id="oyopK26iYF86LUZck6Hh" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rAvEq29Ckbkx6i7ZEFiu-17" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="rAvEq29Ckbkx6i7ZEFiu-1" target="rAvEq29Ckbkx6i7ZEFiu-16">
+        <mxCell id="rAvEq29Ckbkx6i7ZEFiu-17" value="Validate&lt;br&gt;event&lt;br&gt;schema" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="rAvEq29Ckbkx6i7ZEFiu-1" target="rAvEq29Ckbkx6i7ZEFiu-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rAvEq29Ckbkx6i7ZEFiu-1" value="&lt;font style=&quot;font-size: 10px&quot;&gt;ffc-protective-monitoring&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
@@ -53,7 +53,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rAvEq29Ckbkx6i7ZEFiu-16" value="Is evironment variable set?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;verticalAlign=middle;fontSize=9;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="610" y="250" width="80" height="80" as="geometry" />
+          <mxGeometry x="670" y="250" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rAvEq29Ckbkx6i7ZEFiu-19" value="Developer" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="47.5" height="50" as="geometry" />
@@ -62,16 +62,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rAvEq29Ckbkx6i7ZEFiu-22" value="Azure Logic App" style="whiteSpace=wrap;html=1;rounded=1;fontSize=11;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="758" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="818" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rAvEq29Ckbkx6i7ZEFiu-24" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Logic_Apps.svg;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="799.41" y="285" width="35" height="27.3" as="geometry" />
+          <mxGeometry x="859.41" y="285" width="35" height="27.3" as="geometry" />
         </mxCell>
         <mxCell id="rAvEq29Ckbkx6i7ZEFiu-25" value="Azure Event Hub" style="whiteSpace=wrap;html=1;rounded=1;fontSize=11;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="758" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="818" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rAvEq29Ckbkx6i7ZEFiu-27" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/analytics/Event_Hubs.svg;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="800.5" y="423" width="35" height="31.34" as="geometry" />
+          <mxGeometry x="860.5" y="423" width="35" height="31.34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
