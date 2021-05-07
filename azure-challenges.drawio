@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2021-05-07T11:37:11.221Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" version="14.6.9" etag="uLFfrGgXOO1q01aIcJO9" type="github"><diagram id="j1ZAkHsWsdIPEYQirBjA">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-07T11:53:15.084Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="mZ0QwrAMcio2fCdzYB9b" version="14.6.9" type="github">
+  <diagram id="j1ZAkHsWsdIPEYQirBjA" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="i7MT5FbIJc9e3ZGVbQK6-1" value="Azure Service Bus" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="240" y="160" width="120" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="i7MT5FbIJc9e3ZGVbQK6-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="i7MT5FbIJc9e3ZGVbQK6-2" target="i7MT5FbIJc9e3ZGVbQK6-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i7MT5FbIJc9e3ZGVbQK6-2" value="Dev1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="155" y="280" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i7MT5FbIJc9e3ZGVbQK6-4" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Service_Bus.svg;" vertex="1" parent="1">
+          <mxGeometry x="285" y="186" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i7MT5FbIJc9e3ZGVbQK6-5" value="claim" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.queue_generic;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="240" width="50" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="i7MT5FbIJc9e3ZGVbQK6-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="i7MT5FbIJc9e3ZGVbQK6-6" target="i7MT5FbIJc9e3ZGVbQK6-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i7MT5FbIJc9e3ZGVbQK6-6" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Kubernetes_Services.svg;" vertex="1" parent="1">
+          <mxGeometry x="150" y="234.27" width="30" height="26.47" as="geometry" />
+        </mxCell>
+        <mxCell id="i7MT5FbIJc9e3ZGVbQK6-9" value="claim-dev1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.queue_generic;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="276" y="292.5" width="50" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="i7MT5FbIJc9e3ZGVbQK6-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="i7MT5FbIJc9e3ZGVbQK6-12" target="i7MT5FbIJc9e3ZGVbQK6-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i7MT5FbIJc9e3ZGVbQK6-12" value="Dev2" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="155" y="350" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i7MT5FbIJc9e3ZGVbQK6-13" value="claim-dev2" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.queue_generic;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="276" y="362.5" width="50" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="i7MT5FbIJc9e3ZGVbQK6-14" value="Application vs Local development" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="160" y="120" width="209" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
