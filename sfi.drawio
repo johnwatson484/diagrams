@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-04T07:09:09.975Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="1UaOpyC8UOAIhhgvef4Q" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-04T11:47:27.681Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="SgTsy8ZUQ9iL5RubgooM" version="14.7.3" type="github">
   <diagram id="4-JRABzrSl69xwfmwqKc" name="Page-1">
-    <mxGraphModel dx="2249" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4382" dy="1905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1057,6 +1057,24 @@
         </mxCell>
         <mxCell id="WNmiiJS45ZQzqEG9eItB-219" value="Land relay" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Service_Bus_Relay.svg;" vertex="1" parent="1">
           <mxGeometry x="190" y="2730" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WNmiiJS45ZQzqEG9eItB-223" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/christmas-flat-4/58/019_-_Star-128.png;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-9" y="1830" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WNmiiJS45ZQzqEG9eItB-224" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/christmas-flat-4/58/019_-_Star-128.png;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-9" y="2020" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WNmiiJS45ZQzqEG9eItB-225" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/christmas-flat-4/58/019_-_Star-128.png;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-9" y="2840" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WNmiiJS45ZQzqEG9eItB-226" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/christmas-flat-4/58/019_-_Star-128.png;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="450" y="2490" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WNmiiJS45ZQzqEG9eItB-227" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/christmas-flat-4/58/019_-_Star-128.png;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="840" y="2238" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WNmiiJS45ZQzqEG9eItB-228" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/christmas-flat-4/58/019_-_Star-128.png;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1630" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
