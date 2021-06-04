@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2021-06-04T06:50:12.573Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="d6DnVH2cptJshpQixBNv" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-04T07:00:45.820Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="bNksIgKnm5RclZ8zyhwi" version="14.7.3" type="github">
   <diagram id="4-JRABzrSl69xwfmwqKc" name="Page-1">
     <mxGraphModel dx="2249" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WNmiiJS45ZQzqEG9eItB-206" value="Option 2" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="387" y="2470" width="433" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="WNmiiJS45ZQzqEG9eItB-205" value="Option 1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1600" width="650" height="590" as="geometry" />
+        </mxCell>
         <mxCell id="WNmiiJS45ZQzqEG9eItB-177" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WNmiiJS45ZQzqEG9eItB-175" target="WNmiiJS45ZQzqEG9eItB-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -494,7 +500,7 @@
           <mxGeometry x="20" y="2159" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WNmiiJS45ZQzqEG9eItB-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-128.png" vertex="1" parent="1">
-          <mxGeometry x="65" y="2060" width="30" height="30" as="geometry" />
+          <mxGeometry x="30" y="2060" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WNmiiJS45ZQzqEG9eItB-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.533;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WNmiiJS45ZQzqEG9eItB-9" target="WNmiiJS45ZQzqEG9eItB-56">
           <mxGeometry relative="1" as="geometry" />
@@ -536,7 +542,7 @@
           <mxGeometry x="490" y="1710" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WNmiiJS45ZQzqEG9eItB-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-128.png" vertex="1" parent="1">
-          <mxGeometry x="535" y="1670" width="30" height="30" as="geometry" />
+          <mxGeometry x="510" y="1670" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WNmiiJS45ZQzqEG9eItB-20" value="Siti Agri" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="780" y="1640" width="160" height="370" as="geometry" />
@@ -558,9 +564,6 @@
         </mxCell>
         <mxCell id="WNmiiJS45ZQzqEG9eItB-27" value="Check eligibility" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="2570" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="WNmiiJS45ZQzqEG9eItB-28" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-128.png" vertex="1" parent="1">
-          <mxGeometry x="525" y="2530" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WNmiiJS45ZQzqEG9eItB-32" value="Rural payments" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="-330" y="2090" width="160" height="120" as="geometry" />
@@ -745,7 +748,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="430" y="2570" />
-              <mxPoint x="430" y="2835" />
+              <mxPoint x="430" y="2840" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -833,9 +836,6 @@
         </mxCell>
         <mxCell id="WNmiiJS45ZQzqEG9eItB-129" value="Payment service" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="845" y="2250" width="160" height="221" as="geometry" />
-        </mxCell>
-        <mxCell id="WNmiiJS45ZQzqEG9eItB-130" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-128.png" vertex="1" parent="1">
-          <mxGeometry x="910" y="2280" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WNmiiJS45ZQzqEG9eItB-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WNmiiJS45ZQzqEG9eItB-131" target="WNmiiJS45ZQzqEG9eItB-142">
           <mxGeometry relative="1" as="geometry" />
@@ -948,6 +948,65 @@
         </mxCell>
         <mxCell id="WNmiiJS45ZQzqEG9eItB-184" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-128.png" vertex="1" parent="1">
           <mxGeometry x="65" y="1870" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WNmiiJS45ZQzqEG9eItB-185" value="Agreement Viewer" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry y="2850" width="160" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="WNmiiJS45ZQzqEG9eItB-186" value="View agreements" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="2923" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WNmiiJS45ZQzqEG9eItB-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.033;entryY=0.467;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WNmiiJS45ZQzqEG9eItB-187" target="WNmiiJS45ZQzqEG9eItB-189">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WNmiiJS45ZQzqEG9eItB-187" value="Withdraw agreement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="2970" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WNmiiJS45ZQzqEG9eItB-188" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-128.png" vertex="1" parent="1">
+          <mxGeometry x="39.75" y="2880" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WNmiiJS45ZQzqEG9eItB-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WNmiiJS45ZQzqEG9eItB-189" target="WNmiiJS45ZQzqEG9eItB-143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WNmiiJS45ZQzqEG9eItB-189" value="Withdraw topic" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Service_Bus.svg;" vertex="1" parent="1">
+          <mxGeometry x="230" y="2971" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WNmiiJS45ZQzqEG9eItB-192" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="69.75" y="2061.4" width="22.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WNmiiJS45ZQzqEG9eItB-193" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
+          <mxGeometry x="105" y="2062.4" width="30" height="25.2" as="geometry" />
+        </mxCell>
+        <mxCell id="WNmiiJS45ZQzqEG9eItB-194" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-128.png" vertex="1" parent="1">
+          <mxGeometry x="490" y="2530" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WNmiiJS45ZQzqEG9eItB-195" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="529.75" y="2531.4" width="22.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WNmiiJS45ZQzqEG9eItB-196" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
+          <mxGeometry x="565" y="2532.4" width="30" height="25.2" as="geometry" />
+        </mxCell>
+        <mxCell id="WNmiiJS45ZQzqEG9eItB-197" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-128.png" vertex="1" parent="1">
+          <mxGeometry x="890" y="2285" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WNmiiJS45ZQzqEG9eItB-198" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="930" y="2283" width="22.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WNmiiJS45ZQzqEG9eItB-200" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1672.4" width="30" height="25.2" as="geometry" />
+        </mxCell>
+        <mxCell id="WNmiiJS45ZQzqEG9eItB-201" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="92.25" y="2880" width="22.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WNmiiJS45ZQzqEG9eItB-203" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WNmiiJS45ZQzqEG9eItB-202" target="WNmiiJS45ZQzqEG9eItB-186">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WNmiiJS45ZQzqEG9eItB-204" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" target="WNmiiJS45ZQzqEG9eItB-202">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-160" y="2938" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WNmiiJS45ZQzqEG9eItB-202" value="Subscribe&lt;br&gt;to all&lt;br&gt;topics" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Service_Bus.svg;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="2923" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
