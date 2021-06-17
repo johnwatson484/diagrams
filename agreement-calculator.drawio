@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-17T20:21:28.823Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="RYW0zaqbiZk8WQQLdWP0" version="14.7.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-17T20:23:43.753Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="gVoDr3ZXwzSlAft7fcaT" version="14.7.10" type="github">
   <diagram id="Js54alGn4AjX2zPeYyBl" name="Page-1">
     <mxGraphModel dx="1422" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,9 +27,6 @@
         </mxCell>
         <mxCell id="QRr55zgmmeQrsnKyoeg7-8" value="Grants" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="350" y="360" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="QRr55zgmmeQrsnKyoeg7-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/flat-actions-icons-9/792/Close_Icon_Dark-128.png" vertex="1" parent="1">
-          <mxGeometry x="202" y="547.5" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="QRr55zgmmeQrsnKyoeg7-15" value="SFI" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="610" y="10" width="80" height="80" as="geometry" />
@@ -60,9 +57,6 @@
         </mxCell>
         <mxCell id="QRr55zgmmeQrsnKyoeg7-25" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="845" y="275" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="QRr55zgmmeQrsnKyoeg7-33" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/check-128.png;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="570.25" width="82.5" height="82.5" as="geometry" />
         </mxCell>
         <mxCell id="QRr55zgmmeQrsnKyoeg7-34" value="SFI" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="730" y="210" width="80" height="80" as="geometry" />
