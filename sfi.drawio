@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-19T14:33:00.289Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="-ZVE4UTfvSYacpWZpwMN" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-19T14:33:54.678Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="E0W-u2DSGr8vVL5QNTak" version="14.8.5" type="github">
   <diagram id="4-JRABzrSl69xwfmwqKc" name="Page-1">
-    <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -613,7 +613,7 @@
         <mxCell id="WNmiiJS45ZQzqEG9eItB-74" value="Calculate payment" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="490" y="1994.57" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WNmiiJS45ZQzqEG9eItB-75" value="Calculate payment" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="WNmiiJS45ZQzqEG9eItB-75" value="Calculate payment" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="857" y="1990.97" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WNmiiJS45ZQzqEG9eItB-76" value="Calculate payment" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
