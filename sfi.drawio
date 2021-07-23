@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-22T13:58:34.882Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="jC6i9NvROUwUUTYMzSB9" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-23T09:38:24.570Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="q5PcCqPhLK-ArStyfjCf" version="14.8.5" type="github">
   <diagram id="4-JRABzrSl69xwfmwqKc" name="Page-1">
     <mxGraphModel dx="3422" dy="1365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1114,19 +1114,19 @@
         <mxCell id="nCM0_pXQk9tLsIQEPWkh-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nCM0_pXQk9tLsIQEPWkh-44" target="nCM0_pXQk9tLsIQEPWkh-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nCM0_pXQk9tLsIQEPWkh-44" value="Create agreement case" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="nCM0_pXQk9tLsIQEPWkh-44" value="Create agreement case" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="760" y="2595" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nCM0_pXQk9tLsIQEPWkh-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nCM0_pXQk9tLsIQEPWkh-45" target="nCM0_pXQk9tLsIQEPWkh-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nCM0_pXQk9tLsIQEPWkh-45" value="Confirm ready to pay" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="nCM0_pXQk9tLsIQEPWkh-45" value="Confirm ready to pay" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="760" y="2639" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nCM0_pXQk9tLsIQEPWkh-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.618;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="nCM0_pXQk9tLsIQEPWkh-48" target="WNmiiJS45ZQzqEG9eItB-162" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nCM0_pXQk9tLsIQEPWkh-48" value="Create payment request" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="nCM0_pXQk9tLsIQEPWkh-48" value="Create payment request" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="760" y="2690" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nCM0_pXQk9tLsIQEPWkh-50" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/christmas-flat-4/58/019_-_Star-128.png;strokeColor=#000000;" parent="1" vertex="1">
@@ -1150,7 +1150,7 @@
         <mxCell id="nCM0_pXQk9tLsIQEPWkh-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.961;entryY=0.592;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="nCM0_pXQk9tLsIQEPWkh-55" target="nCM0_pXQk9tLsIQEPWkh-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nCM0_pXQk9tLsIQEPWkh-55" value="Validate agreement" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="nCM0_pXQk9tLsIQEPWkh-55" value="Validate agreement" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="760" y="2502" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nCM0_pXQk9tLsIQEPWkh-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="nCM0_pXQk9tLsIQEPWkh-59" target="WNmiiJS45ZQzqEG9eItB-51" edge="1">
@@ -1212,7 +1212,7 @@
         <mxCell id="eG-BRaZ_1XuPXMnySeKk-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="eG-BRaZ_1XuPXMnySeKk-1" target="nCM0_pXQk9tLsIQEPWkh-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eG-BRaZ_1XuPXMnySeKk-1" value="Confirm validation cases" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="eG-BRaZ_1XuPXMnySeKk-1" value="Confirm validation cases" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="760" y="2552" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eG-BRaZ_1XuPXMnySeKk-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eG-BRaZ_1XuPXMnySeKk-3" target="eG-BRaZ_1XuPXMnySeKk-1" edge="1">
