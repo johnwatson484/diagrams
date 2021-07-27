@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2021-07-27T09:12:06.405Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="sQ0I7p82o5G7G9AVSIzO" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-27T11:01:29.589Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="03lShHxe5Ppzth2XN3Jd" version="14.9.2" type="github">
   <diagram id="1XCgTyp1o_9dvypK1vWQ" name="Page-1">
     <mxGraphModel dx="2500" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="H4XcM_15EuvaElWjRfmu-19" value="Option 2" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="940" width="150" height="110" as="geometry" />
+        <mxCell id="H4XcM_15EuvaElWjRfmu-30" value="Option 2" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="475" y="1162" width="150" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="H4XcM_15EuvaElWjRfmu-18" value="Option 1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="800" width="1330" height="110" as="geometry" />
+        <mxCell id="H4XcM_15EuvaElWjRfmu-18" value="Option 1 - Payment Batch Processor" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-365" y="940" width="1330" height="110" as="geometry" />
         </mxCell>
         <mxCell id="kp0Nub5B4hyBBO8Y0ufR-64" value="FFC Payment services" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="10" y="10" width="1360" height="700" as="geometry" />
@@ -154,64 +154,73 @@
           <mxGeometry x="1220" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H4XcM_15EuvaElWjRfmu-1" value="Poll for payment file" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="-355" y="980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H4XcM_15EuvaElWjRfmu-2" value="Read files from storage in order" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="35" y="980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H4XcM_15EuvaElWjRfmu-4" value="Move file to archive storage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="165" y="980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H4XcM_15EuvaElWjRfmu-6" value="Validate file structure" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H4XcM_15EuvaElWjRfmu-8" value="Order payment files by batch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-230" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="-225" y="980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H4XcM_15EuvaElWjRfmu-9" value="Handle concurrency of file processing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="-95" y="980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H4XcM_15EuvaElWjRfmu-10" value="Validate batch total invoices and value&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Read%20file%20from%20storage%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-100%22%20y%3D%22840%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="695" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="700" y="980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H4XcM_15EuvaElWjRfmu-12" value="Split file into payment requests" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="825" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="830" y="980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H4XcM_15EuvaElWjRfmu-13" value="Update next batch sequence id" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="299" y="980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H4XcM_15EuvaElWjRfmu-14" value="Validate invoice header and lines" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="1090" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="H4XcM_15EuvaElWjRfmu-15" value="Save batch data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="840" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="H4XcM_15EuvaElWjRfmu-16" value="Save request data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-220" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H4XcM_15EuvaElWjRfmu-17" value="Consume payment request from subscription" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-355" y="970" width="120" height="60" as="geometry" />
+        <mxCell id="H4XcM_15EuvaElWjRfmu-15" value="Save batch data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="980" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H4XcM_15EuvaElWjRfmu-21" value="Check if payments on hold" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="H4XcM_15EuvaElWjRfmu-16" value="Save request data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H4XcM_15EuvaElWjRfmu-23" value="Check for due payments not on hold" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="1180" width="120" height="60" as="geometry" />
+        <mxCell id="H4XcM_15EuvaElWjRfmu-17" value="Consume payment request from subscription" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H4XcM_15EuvaElWjRfmu-24" value="Save schedule data&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="H4XcM_15EuvaElWjRfmu-21" value="Check if payments on hold" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="H4XcM_15EuvaElWjRfmu-23" value="Check for due payments not on hold and service is active" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="1192" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H4XcM_15EuvaElWjRfmu-24" value="Save schedule data&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="H4XcM_15EuvaElWjRfmu-25" value="Get previous payment requests for agreement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-220" y="1180" width="120" height="60" as="geometry" />
+          <mxGeometry x="-220" y="1192" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H4XcM_15EuvaElWjRfmu-26" value="Calculate Delta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="1180" width="120" height="60" as="geometry" />
+          <mxGeometry x="-80" y="1192" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H4XcM_15EuvaElWjRfmu-27" value="Check settlement status from return file data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="1180" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="1192" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H4XcM_15EuvaElWjRfmu-28" value="Split invoice across necessary ledgers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="1180" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="1192" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H4XcM_15EuvaElWjRfmu-29" value="Map SBI to FRN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1192" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H4XcM_15EuvaElWjRfmu-31" value="Map scheme and account codes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="1192" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H4XcM_15EuvaElWjRfmu-32" value="Generate invoice numbers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1192" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
