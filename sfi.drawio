@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-10T14:30:21.782Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="2gaM761nMo-hohMCsrL_" version="14.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-10T14:30:48.054Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="Expia44ZWa7H4BO5Ppzc" version="14.9.5" type="github">
   <diagram id="4-JRABzrSl69xwfmwqKc" name="Page-1">
     <mxGraphModel dx="2249" dy="-407" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -113,7 +113,7 @@
             <mxPoint x="777" y="1911.694117647059" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WNmiiJS45ZQzqEG9eItB-23" value="Check eligibility" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="WNmiiJS45ZQzqEG9eItB-23" value="Check eligibility" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="857" y="1896.69" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WNmiiJS45ZQzqEG9eItB-26" value="Agreement calculator&lt;br&gt;(ffc-sfi-agreement-calculator)" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
@@ -561,7 +561,7 @@
         <mxCell id="nCM0_pXQk9tLsIQEPWkh-1" value="Select organisation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="41" y="2059.57" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nCM0_pXQk9tLsIQEPWkh-16" value="Get SBIs" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="nCM0_pXQk9tLsIQEPWkh-16" value="Get SBIs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="858" y="1853.42" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nCM0_pXQk9tLsIQEPWkh-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="nCM0_pXQk9tLsIQEPWkh-16" edge="1">
@@ -749,12 +749,6 @@
         </mxCell>
         <mxCell id="eG-BRaZ_1XuPXMnySeKk-16" value="External Dependency" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="-250" y="2523" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="eG-BRaZ_1XuPXMnySeKk-17" value="Get SBIs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="858" y="1852.93" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="eG-BRaZ_1XuPXMnySeKk-18" value="Check eligibility" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="857" y="1896.2" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nCM0_pXQk9tLsIQEPWkh-69" value="Cross compliance data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="198.36" y="2748" width="120" height="30" as="geometry" />
