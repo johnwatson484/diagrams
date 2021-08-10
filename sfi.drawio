@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-10T11:58:57.691Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="GHhUNuVEUBt4cz6Hsh5T" version="14.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-10T13:23:16.955Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="eCaFzwRjwHuMMeocbuVK" version="14.9.5" type="github">
   <diagram id="4-JRABzrSl69xwfmwqKc" name="Page-1">
     <mxGraphModel dx="2249" dy="-407" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -973,6 +973,9 @@
         </mxCell>
         <mxCell id="AzzBScl7OAjR2Hi6ON1C-116" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/christmas-flat-4/58/019_-_Star-128.png;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1093.19" y="3560" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AzzBScl7OAjR2Hi6ON1C-122" value="Unit tests&lt;br&gt;Narrow integration tests&lt;br&gt;Local integration tests&lt;br&gt;Contract tests&lt;br&gt;Performance tests&lt;br&gt;Security tests&lt;br&gt;Accessibility tests&lt;br&gt;Code quality tests&lt;br&gt;Vulnerability scanning" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-157" y="3277" width="150" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
