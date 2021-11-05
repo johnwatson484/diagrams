@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-05T13:56:27.832Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="73bMwRMazbLdiRZ2F2Or" version="15.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-05T16:46:46.598Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="zoa_oYSQBifq5Kpwq3gy" version="15.6.8" type="github">
   <diagram id="96eKvqNJEgnQ8P5QyueD" name="Page-1">
-    <mxGraphModel dx="4063" dy="2177" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="2065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -125,13 +125,13 @@
           <mxGeometry x="1160" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JusbMAUTRuWRRKYKNHEX-34" value="Processing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="20" width="60" height="30" as="geometry" />
+          <mxGeometry x="60" y="20" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JusbMAUTRuWRRKYKNHEX-35" value="Dynamics" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="20" width="120" height="30" as="geometry" />
+          <mxGeometry x="570" y="20" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JusbMAUTRuWRRKYKNHEX-36" value="Agreement Calculator" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="20" width="120" height="30" as="geometry" />
+          <mxGeometry x="1130" y="20" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JusbMAUTRuWRRKYKNHEX-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JusbMAUTRuWRRKYKNHEX-37" target="JusbMAUTRuWRRKYKNHEX-121">
           <mxGeometry relative="1" as="geometry" />
@@ -274,6 +274,9 @@
         <mxCell id="JusbMAUTRuWRRKYKNHEX-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JusbMAUTRuWRRKYKNHEX-96" target="JusbMAUTRuWRRKYKNHEX-115">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="JusbMAUTRuWRRKYKNHEX-172" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="JusbMAUTRuWRRKYKNHEX-96" target="JusbMAUTRuWRRKYKNHEX-171">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JusbMAUTRuWRRKYKNHEX-96" value="Send incident closed message" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="2470" width="120" height="60" as="geometry" />
         </mxCell>
@@ -359,7 +362,12 @@
           <mxGeometry x="720" y="2980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JusbMAUTRuWRRKYKNHEX-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JusbMAUTRuWRRKYKNHEX-137" target="JusbMAUTRuWRRKYKNHEX-105">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="3130" />
+              <mxPoint x="420" y="2500" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="JusbMAUTRuWRRKYKNHEX-137" value="Send incident closed message" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="3100" width="120" height="60" as="geometry" />
@@ -415,6 +423,33 @@
         </mxCell>
         <mxCell id="JusbMAUTRuWRRKYKNHEX-156" value="Publish payment request" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="220" y="3440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JusbMAUTRuWRRKYKNHEX-163" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="JusbMAUTRuWRRKYKNHEX-162" target="JusbMAUTRuWRRKYKNHEX-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JusbMAUTRuWRRKYKNHEX-164" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="JusbMAUTRuWRRKYKNHEX-162" target="JusbMAUTRuWRRKYKNHEX-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JusbMAUTRuWRRKYKNHEX-165" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="JusbMAUTRuWRRKYKNHEX-162" target="JusbMAUTRuWRRKYKNHEX-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JusbMAUTRuWRRKYKNHEX-162" value="{&amp;nbsp;&lt;br&gt;&amp;nbsp; sbi&lt;br&gt;&amp;nbsp; agreementNumber&lt;br&gt;&amp;nbsp; organisationId&lt;br&gt;&amp;nbsp; agreement: {&lt;br&gt;&amp;nbsp; &amp;nbsp; paymentAmount&lt;br&gt;&amp;nbsp; &amp;nbsp; standards: [{&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; id&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; paymentAmount&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; parcels: [{&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; id&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; area&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; }]&lt;br&gt;&amp;nbsp; &amp;nbsp; }]&lt;br&gt;&amp;nbsp; &amp;nbsp; actions: [{&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; id&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; value&lt;br&gt;&amp;nbsp; &amp;nbsp; }]&amp;nbsp;&lt;br&gt;&amp;nbsp; }&lt;br&gt;}" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="715" y="-410" width="120" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="JusbMAUTRuWRRKYKNHEX-167" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="JusbMAUTRuWRRKYKNHEX-11" target="JusbMAUTRuWRRKYKNHEX-166">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JusbMAUTRuWRRKYKNHEX-166" value="{&amp;nbsp;&lt;br&gt;&amp;nbsp; sbi&lt;br&gt;&amp;nbsp; agreementNumber&lt;br&gt;&amp;nbsp; incidentTypeId&lt;br&gt;&amp;nbsp; description&lt;br&gt;}" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="20" y="672.5" width="120" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="JusbMAUTRuWRRKYKNHEX-169" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="JusbMAUTRuWRRKYKNHEX-93" target="JusbMAUTRuWRRKYKNHEX-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JusbMAUTRuWRRKYKNHEX-168" value="{&amp;nbsp;&lt;br&gt;&amp;nbsp; sbi&lt;br&gt;&amp;nbsp; agreementNumber&lt;br&gt;&amp;nbsp; warnings: [{&lt;br&gt;&amp;nbsp; &amp;nbsp; ...&lt;br&gt;&amp;nbsp; }]&amp;nbsp;&amp;nbsp;&lt;br&gt;}" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="2187.5" width="120" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="JusbMAUTRuWRRKYKNHEX-171" value="{&amp;nbsp;&lt;br&gt;&amp;nbsp; sbi&lt;br&gt;&amp;nbsp; agreementNumber&lt;br&gt;&amp;nbsp; incidentTypeId&lt;br&gt;&amp;nbsp; remainingIncidents&lt;br&gt;}" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="910" y="2453.75" width="120" height="92.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
