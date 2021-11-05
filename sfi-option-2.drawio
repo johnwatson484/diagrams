@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-05T11:53:02.662Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="c2cMmLNkn7VFl5nu3ih2" version="15.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-05T17:54:51.799Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="1AyKalCaeZMMDHX1Bobv" version="15.6.8" type="github">
   <diagram id="1ozktd-ckYOoA8rAR8xB" name="Page-1">
-    <mxGraphModel dx="3903" dy="-407" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="9663" dy="2405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1228,9 +1228,6 @@
         </mxCell>
         <mxCell id="EDxl0zbMeMma5V7oxqXN-64" value="ffc-sfi-agreement-validate&lt;br&gt;ffc-sfi-agreement-validation" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Service_Bus.svg;" parent="1" vertex="1">
           <mxGeometry x="-496" y="1970" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="EDxl0zbMeMma5V7oxqXN-69" value="Internal&lt;br&gt;user" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" parent="1" vertex="1">
-          <mxGeometry x="-1200.75" y="2163.3" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EDxl0zbMeMma5V7oxqXN-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="EDxl0zbMeMma5V7oxqXN-71" target="9WCeXRwd7XHV42hcZ6cL-125" edge="1">
           <mxGeometry relative="1" as="geometry" />
