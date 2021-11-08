@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-08T15:51:30.327Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="kc-h45ssge3Uks-S-lo5" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-08T17:12:30.727Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="uZyF1Ubk7HvCC0ZWCgfC" version="15.7.0" type="github">
   <diagram id="96eKvqNJEgnQ8P5QyueD" name="Page-1">
     <mxGraphModel dx="1038" dy="2884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -448,8 +448,13 @@
         <mxCell id="JusbMAUTRuWRRKYKNHEX-168" value="{&amp;nbsp;&lt;br&gt;&amp;nbsp; scheme&lt;br&gt;&amp;nbsp; sbi&lt;br&gt;&amp;nbsp; agreementNumber&lt;br&gt;&amp;nbsp; warnings: [{&lt;br&gt;&amp;nbsp; &amp;nbsp; ...&lt;br&gt;&amp;nbsp; }]&amp;nbsp;&amp;nbsp;&lt;br&gt;}" style="whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1380" y="1428.75" width="120" height="122.5" as="geometry" />
         </mxCell>
-        <mxCell id="JusbMAUTRuWRRKYKNHEX-171" value="{&lt;br&gt;&amp;nbsp; scheme&amp;nbsp;&lt;br&gt;&amp;nbsp; sbi&lt;br&gt;&amp;nbsp; agreementNumber&lt;br&gt;&amp;nbsp; incidentTypeId&lt;br&gt;&amp;nbsp; remainingIncidents&lt;br&gt;}" style="whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="920" y="1696.88" width="120" height="106.25" as="geometry" />
+        <mxCell id="8O9VE5gzXfqwe-6WKHX3-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JusbMAUTRuWRRKYKNHEX-171">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="980" y="1906.255" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JusbMAUTRuWRRKYKNHEX-171" value="{&lt;br&gt;&amp;nbsp; scheme&amp;nbsp;&lt;br&gt;&amp;nbsp; sbi&lt;br&gt;&amp;nbsp; agreementNumber&lt;br&gt;&amp;nbsp; incidentTypeId&lt;br&gt;&amp;nbsp; remainingIncidents&lt;br&gt;&amp;nbsp; agreement: {...}&lt;br&gt;}" style="whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="920" y="1688.44" width="120" height="123.12" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
