@@ -312,7 +312,7 @@
                     <mxGeometry x="490" y="2379" width="120" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="9WCeXRwd7XHV42hcZ6cL-179" value="Consume return" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-                    <mxGeometry x="489.25" y="2429" width="120" height="30" as="geometry"/>
+                    <mxGeometry x="489.25" y="2433.55" width="120" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="LJceqPJ3l5kmGr3pzS4L-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="9WCeXRwd7XHV42hcZ6cL-180" target="LJceqPJ3l5kmGr3pzS4L-43" edge="1">
                     <mxGeometry relative="1" as="geometry">
@@ -528,12 +528,11 @@
                 <mxCell id="LJceqPJ3l5kmGr3pzS4L-43" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage_blob;aspect=fixed;" parent="1" vertex="1">
                     <mxGeometry x="1000" y="2463.55" width="30" height="27" as="geometry"/>
                 </mxCell>
-                <mxCell id="LJceqPJ3l5kmGr3pzS4L-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="LJceqPJ3l5kmGr3pzS4L-42" target="9WCeXRwd7XHV42hcZ6cL-179" edge="1">
+                <mxCell id="LJceqPJ3l5kmGr3pzS4L-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;" parent="1" source="EDxl0zbMeMma5V7oxqXN-86" target="9WCeXRwd7XHV42hcZ6cL-179" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="770" y="2502.0588235294117" as="sourcePoint"/>
                         <Array as="points">
-                            <mxPoint x="790" y="2502"/>
-                            <mxPoint x="790" y="2444"/>
+                            <mxPoint x="710" y="2449"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
@@ -1241,10 +1240,10 @@
                 <mxCell id="EDxl0zbMeMma5V7oxqXN-76" value="ffc-sfi-agreement-case-create&lt;br&gt;ffc-sfi-agreement-case-close" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Service_Bus.svg;" parent="1" vertex="1">
                     <mxGeometry x="-664" y="2301.09" width="20" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="EDxl0zbMeMma5V7oxqXN-78" value="ffc-pay-request" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Service_Bus.svg;" parent="1" vertex="1">
+                <mxCell id="EDxl0zbMeMma5V7oxqXN-78" value="ffc-pay-request&lt;br&gt;ffc-pay-request-enrichment" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Service_Bus.svg;" parent="1" vertex="1">
                     <mxGeometry x="21" y="2180" width="20" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="EDxl0zbMeMma5V7oxqXN-81" value="ffc-pay-processing" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Service_Bus.svg;" parent="1" vertex="1">
+                <mxCell id="EDxl0zbMeMma5V7oxqXN-81" value="ffc-pay-processing&lt;br&gt;ffc-pay-processing-processing" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Service_Bus.svg;" parent="1" vertex="1">
                     <mxGeometry x="360" y="2169" width="24" height="24" as="geometry"/>
                 </mxCell>
                 <mxCell id="9WCeXRwd7XHV42hcZ6cL-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="9WCeXRwd7XHV42hcZ6cL-146" target="9WCeXRwd7XHV42hcZ6cL-153" edge="1">
@@ -1256,7 +1255,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="EDxl0zbMeMma5V7oxqXN-82" value="ffc-pay-submit" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Service_Bus.svg;" parent="1" vertex="1">
+                <mxCell id="EDxl0zbMeMma5V7oxqXN-82" value="ffc-pay-submit&lt;br&gt;ffc-pay-submit-submission" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Service_Bus.svg;" parent="1" vertex="1">
                     <mxGeometry x="720" y="2173.3" width="20" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="9WCeXRwd7XHV42hcZ6cL-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" parent="1" source="9WCeXRwd7XHV42hcZ6cL-162" target="9WCeXRwd7XHV42hcZ6cL-168" edge="1">
@@ -1268,11 +1267,8 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="EDxl0zbMeMma5V7oxqXN-85" value="ffc-pay-acknowledge" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Service_Bus.svg;" parent="1" vertex="1">
+                <mxCell id="EDxl0zbMeMma5V7oxqXN-85" value="&lt;font style=&quot;font-size: 11px&quot;&gt;ffc-pay-acknowledge&lt;br&gt;ffc-pay-acknowledge-processor&lt;/font&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Service_Bus.svg;" parent="1" vertex="1">
                     <mxGeometry x="710" y="2369" width="20" height="20" as="geometry"/>
-                </mxCell>
-                <mxCell id="EDxl0zbMeMma5V7oxqXN-86" value="ffc-pay-return" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Service_Bus.svg;" parent="1" vertex="1">
-                    <mxGeometry x="710" y="2420.05" width="20" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="EDxl0zbMeMma5V7oxqXN-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="EDxl0zbMeMma5V7oxqXN-87" target="EDxl0zbMeMma5V7oxqXN-89" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -1297,6 +1293,19 @@
                 </mxCell>
                 <mxCell id="EDxl0zbMeMma5V7oxqXN-95" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/material-core/20/schedule-128.png" parent="1" vertex="1">
                     <mxGeometry x="-313.75" y="1264" width="18" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="EDxl0zbMeMma5V7oxqXN-86" value="ffc-pay-return&lt;br&gt;ffc-pay-return-processing" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Service_Bus.svg;" parent="1" vertex="1">
+                    <mxGeometry x="710" y="2438" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;" edge="1" parent="1" source="LJceqPJ3l5kmGr3pzS4L-42" target="EDxl0zbMeMma5V7oxqXN-86">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="829.25" y="2502" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="790" y="2502"/>
+                            <mxPoint x="790" y="2448"/>
+                        </Array>
+                        <mxPoint x="609.25" y="2444" as="targetPoint"/>
+                    </mxGeometry>
                 </mxCell>
             </root>
         </mxGraphModel>
