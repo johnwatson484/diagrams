@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-09T10:31:51.772Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="BQBUWAADT1J0d9sPjbHU" version="16.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-09T10:33:42.423Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="U8gLhnVFNBR8UHo_ywe3" version="16.6.8" type="github">
   <diagram id="C3n2u9p28RJBCAid8Xp9" name="Page-1">
     <mxGraphModel dx="1865" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -69,6 +69,9 @@
         </mxCell>
         <mxCell id="xMmDxgA52zjlr51yU6Mr-18" value="Production&lt;br&gt;hgmg-live" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-160" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xMmDxgA52zjlr51yU6Mr-26" value="Should send files to all three environments via script" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="120" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
