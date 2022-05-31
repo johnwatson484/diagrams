@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-31T15:25:19.411Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="-La8sro9dXMtCdhC2HYo" version="18.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-31T15:26:43.443Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="3uw59Xd9tJf3zVPnlwiX" version="18.0.7" type="github">
   <diagram id="uC1Qf5pdsRNm4AW9NJRU" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -152,6 +152,9 @@
         </mxCell>
         <mxCell id="_gvtUS67iC5710Fr1-Ae-136" value="Claim statement" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48-bubbles/48/12.File-128.png;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="790" y="211.15999999999997" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_gvtUS67iC5710Fr1-Ae-140" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.clock;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="156" y="221.15999999999997" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
