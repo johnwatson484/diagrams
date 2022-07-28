@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T12:08:37.185Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="D6PLI6jhTDB4fqNeUAL5" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-28T13:06:20.192Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="OOU5VzJrwu9cZD_mgABW" version="20.2.0" type="github">
   <diagram id="CHQOyfcS4Jq5zgWORfXr" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -277,6 +277,109 @@
         </mxCell>
         <mxCell id="clZujiyER_6VHMt9e892-84" value="" style="shape=message;html=1;whiteSpace=wrap;html=1;outlineConnect=0;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="575" y="1480" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="clZujiyER_6VHMt9e892-109" value="Send message" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="clZujiyER_6VHMt9e892-110" target="clZujiyER_6VHMt9e892-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="clZujiyER_6VHMt9e892-110" value="Application 1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1720" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="clZujiyER_6VHMt9e892-111" value="Application 2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="495" y="1720" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="clZujiyER_6VHMt9e892-112" value="" style="shape=message;html=1;whiteSpace=wrap;html=1;outlineConnect=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="245" y="1730" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="clZujiyER_6VHMt9e892-113" value="Receive message" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="clZujiyER_6VHMt9e892-114" target="clZujiyER_6VHMt9e892-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="clZujiyER_6VHMt9e892-114" value="Queue" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="311.5" y="1735" width="58.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="clZujiyER_6VHMt9e892-115" value="" style="shape=message;html=1;whiteSpace=wrap;html=1;outlineConnect=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1730" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="clZujiyER_6VHMt9e892-119" value="Send message" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="clZujiyER_6VHMt9e892-120" target="clZujiyER_6VHMt9e892-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="clZujiyER_6VHMt9e892-120" value="Application 1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="115" y="1870" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="clZujiyER_6VHMt9e892-122" value="" style="shape=message;html=1;whiteSpace=wrap;html=1;outlineConnect=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1880" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="clZujiyER_6VHMt9e892-128" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="1" source="clZujiyER_6VHMt9e892-124" target="clZujiyER_6VHMt9e892-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="clZujiyER_6VHMt9e892-129" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="clZujiyER_6VHMt9e892-124">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="1970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="clZujiyER_6VHMt9e892-124" value="Topic" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="306.5" y="1885" width="58.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="clZujiyER_6VHMt9e892-131" value="Receive Message" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="clZujiyER_6VHMt9e892-126" target="clZujiyER_6VHMt9e892-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="clZujiyER_6VHMt9e892-126" value="Subscription 1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="461.5" y="1850" width="67" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="clZujiyER_6VHMt9e892-138" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="1" source="clZujiyER_6VHMt9e892-127" target="clZujiyER_6VHMt9e892-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="clZujiyER_6VHMt9e892-127" value="Subscription&lt;br&gt;2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="461.5" y="1945" width="67" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="clZujiyER_6VHMt9e892-130" value="Application 2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1835" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="clZujiyER_6VHMt9e892-132" value="" style="shape=message;html=1;whiteSpace=wrap;html=1;outlineConnect=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1840" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="clZujiyER_6VHMt9e892-134" value="Receive Message" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" target="clZujiyER_6VHMt9e892-135">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="528.5" y="1970" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="clZujiyER_6VHMt9e892-135" value="Application 3:&lt;br&gt;Replica 1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1930" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="clZujiyER_6VHMt9e892-136" value="" style="shape=message;html=1;whiteSpace=wrap;html=1;outlineConnect=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1935" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="clZujiyER_6VHMt9e892-137" value="Application 3:&lt;br&gt;Replica 2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="680" y="2030" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="clZujiyER_6VHMt9e892-139" value="Send message with Session Id: 1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="clZujiyER_6VHMt9e892-140" target="clZujiyER_6VHMt9e892-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="clZujiyER_6VHMt9e892-140" value="Application 1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="120" y="2160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="clZujiyER_6VHMt9e892-141" value="Application 2: Replica 1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="720" y="2160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="clZujiyER_6VHMt9e892-142" value="" style="shape=message;html=1;whiteSpace=wrap;html=1;outlineConnect=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="295" y="2170" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="clZujiyER_6VHMt9e892-143" value="Receive message with session Id: 1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="clZujiyER_6VHMt9e892-144" target="clZujiyER_6VHMt9e892-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="clZujiyER_6VHMt9e892-149" value="Receive message with session Id: 2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="1" source="clZujiyER_6VHMt9e892-144" target="clZujiyER_6VHMt9e892-148">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="clZujiyER_6VHMt9e892-144" value="Session Queue" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="423.25" y="2175" width="58.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="clZujiyER_6VHMt9e892-145" value="" style="shape=message;html=1;whiteSpace=wrap;html=1;outlineConnect=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="590" y="2170" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="clZujiyER_6VHMt9e892-148" value="Application 2: Replica 2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="720" y="2280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="clZujiyER_6VHMt9e892-150" value="" style="shape=message;html=1;whiteSpace=wrap;html=1;outlineConnect=0;fontSize=11;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="590" y="2240" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
