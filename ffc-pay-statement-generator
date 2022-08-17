@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-17T11:33:26.271Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="X7Wr5MkgfJJ_osRHqU3B" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-17T12:01:42.745Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="OOoRLUm14e8BT1OAF-hq" version="20.2.4" type="github">
   <diagram id="wzcgfyezNRNZyX0hR7Nq" name="Page-1">
     <mxGraphModel dx="4512" dy="-1331" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -247,6 +247,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VWv3HIua24Sd8Q_si1kX-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gsw8tR_00ToMZDCSdc-r-90" target="VWv3HIua24Sd8Q_si1kX-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VWv3HIua24Sd8Q_si1kX-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="Gsw8tR_00ToMZDCSdc-r-90" target="VWv3HIua24Sd8Q_si1kX-133">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Gsw8tR_00ToMZDCSdc-r-90" value="Statement Publisher&lt;br style=&quot;font-size: 10px;&quot;&gt;(ffc-pay-statement-publisher)" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=10;" parent="1" vertex="1">
@@ -868,6 +871,9 @@
         </mxCell>
         <mxCell id="VWv3HIua24Sd8Q_si1kX-129" value="Search and view all generated statements" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-485.5" y="5472.45" width="145" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="VWv3HIua24Sd8Q_si1kX-133" value="publishing database" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="55" y="3390" width="30" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
