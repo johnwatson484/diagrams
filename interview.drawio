@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-10T21:59:09.546Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="hrnoTIskECu_bfqbRmfD" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-10T21:59:41.981Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="ZPKHTAOM1LyTiRV3Hao2" version="23.1.1" type="github">
   <diagram name="Page-1" id="x9AYoagkFjPnIj1YDkNX">
     <mxGraphModel dx="2026" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -247,8 +247,11 @@
         <mxCell id="etOJwjgyMubkftZ0emL1-102" value="Node.js&#xa;REST API" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png;" vertex="1" parent="1">
           <mxGeometry x="644.38" y="2330" width="27.25" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="etOJwjgyMubkftZ0emL1-103" value="&lt;ul&gt;&lt;li&gt;Open source code for Node.js REST API&lt;/li&gt;&lt;li&gt;Feature branch development to support rapid iteration&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="etOJwjgyMubkftZ0emL1-103" value="&lt;ul&gt;&lt;li&gt;Open source code for Node.js REST API&lt;/li&gt;&lt;li&gt;Feature branch development to support rapid iteration&lt;/li&gt;&lt;li&gt;Every commit triggers CI&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="89.99999999999999" y="3070" width="264.49" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="etOJwjgyMubkftZ0emL1-104" value="Azure DevOps" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/devops/Azure_DevOps.svg;" vertex="1" parent="1">
+          <mxGeometry x="434" y="2800" width="64" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
