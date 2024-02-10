@@ -1,17 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2024-02-10T17:02:27.062Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="LIgtQJajz6b4mlRr7EzA" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-10T17:08:34.631Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="TDQL7xCtLtZlTTN36sVb" version="23.1.1" type="github">
   <diagram name="Page-1" id="x9AYoagkFjPnIj1YDkNX">
     <mxGraphModel dx="2026" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="etOJwjgyMubkftZ0emL1-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logos-world.net/wp-content/uploads/2021/03/Azure-Logo-2020-present.png;" vertex="1" parent="1">
-          <mxGeometry x="40" y="80" width="100" height="56.25" as="geometry" />
+        <mxCell id="etOJwjgyMubkftZ0emL1-1" value="Microsoft Azure" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logos-world.net/wp-content/uploads/2021/03/Azure-Logo-2020-present.png;" vertex="1" parent="1">
+          <mxGeometry x="40" y="102.12" width="100" height="56.25" as="geometry" />
         </mxCell>
-        <mxCell id="etOJwjgyMubkftZ0emL1-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://images.idgesg.net/images/article/2018/11/aws_logo-100781597-large.jpg;" vertex="1" parent="1">
-          <mxGeometry x="280" y="80" width="100" height="60" as="geometry" />
+        <mxCell id="etOJwjgyMubkftZ0emL1-2" value="Amazon Web Services" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://images.idgesg.net/images/article/2018/11/aws_logo-100781597-large.jpg;" vertex="1" parent="1">
+          <mxGeometry x="300" y="98.37" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="etOJwjgyMubkftZ0emL1-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.kindpng.com/picc/m/20-209875_google-cloud-logo-png-image-free-download-searchpng.png;" vertex="1" parent="1">
+        <mxCell id="etOJwjgyMubkftZ0emL1-6" value="Google Cloud Platform" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.kindpng.com/picc/m/20-209875_google-cloud-logo-png-image-free-download-searchpng.png;" vertex="1" parent="1">
           <mxGeometry x="560" y="80" width="100" height="78.37" as="geometry" />
+        </mxCell>
+        <mxCell id="etOJwjgyMubkftZ0emL1-7" value="Azure Container App" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Container_App_Environments.svg;" vertex="1" parent="1">
+          <mxGeometry x="56" y="240" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="etOJwjgyMubkftZ0emL1-8" value="Azure Kubernetes Service" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Kubernetes_Services.svg;" vertex="1" parent="1">
+          <mxGeometry x="50" y="390" width="68" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="etOJwjgyMubkftZ0emL1-9" value="Azure Function" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;" vertex="1" parent="1">
+          <mxGeometry x="50" y="530" width="68" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="etOJwjgyMubkftZ0emL1-10" value="Azure App Service" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Services.svg;" vertex="1" parent="1">
+          <mxGeometry x="58" y="670" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="etOJwjgyMubkftZ0emL1-11" value="Azure Container Instances" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Container_Instances.svg;" vertex="1" parent="1">
+          <mxGeometry x="58" y="810" width="64" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="etOJwjgyMubkftZ0emL1-12" value="Virtual Machine" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;" vertex="1" parent="1">
+          <mxGeometry x="56" y="950" width="69" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
