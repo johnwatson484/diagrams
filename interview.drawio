@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-10T20:40:28.960Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="8sLBnqR8MP7xWHrjSPN2" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-10T20:51:55.947Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="F7wT5z8ohOSFijqt9V67" version="23.1.1" type="github">
   <diagram name="Page-1" id="x9AYoagkFjPnIj1YDkNX">
     <mxGraphModel dx="2026" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -68,7 +68,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="etOJwjgyMubkftZ0emL1-26" value="Microsoft Azure" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logos-world.net/wp-content/uploads/2021/03/Azure-Logo-2020-present.png;" vertex="1" parent="1">
-          <mxGeometry x="323.25" y="1100" width="100" height="60" as="geometry" />
+          <mxGeometry x="323.25" y="1120" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="etOJwjgyMubkftZ0emL1-27" value="Azure Container App" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Container_App_Environments.svg;" vertex="1" parent="1">
           <mxGeometry x="614.75" y="1550" width="70" height="70" as="geometry" />
@@ -86,7 +86,7 @@
           <mxGeometry x="619.5" y="1241" width="60" height="70" as="geometry" />
         </mxCell>
         <mxCell id="etOJwjgyMubkftZ0emL1-32" value="Virtual Machine" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;" vertex="1" parent="1">
-          <mxGeometry x="75.5" y="2010" width="69" height="64" as="geometry" />
+          <mxGeometry x="55.5" y="950" width="69" height="64" as="geometry" />
         </mxCell>
         <mxCell id="etOJwjgyMubkftZ0emL1-34" value="For scenarios where managed web hosting platform is required" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="300" y="1366" width="185.5" height="30" as="geometry" />
@@ -106,17 +106,23 @@
         <mxCell id="etOJwjgyMubkftZ0emL1-39" value="For scenarios where full fledged orchestration is required with need to access Kubernetes API" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="300" y="1670" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="etOJwjgyMubkftZ0emL1-40" value="&lt;ul&gt;&lt;li&gt;Need to manage Node.js installation&lt;/li&gt;&lt;li&gt;All services share same Node.js runtime&lt;/li&gt;&lt;li&gt;Need to manage web hosting, eg Apache, NGINX, Docker, PM2..&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="etOJwjgyMubkftZ0emL1-40" value="&lt;ul&gt;&lt;li&gt;Need to manage Node.js installation&lt;/li&gt;&lt;li&gt;All services share same Node.js runtime&lt;/li&gt;&lt;li&gt;Tight coupling&lt;/li&gt;&lt;li&gt;Need to manage web hosting, eg Apache, NGINX, Docker, PM2..&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="1410" width="210" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="etOJwjgyMubkftZ0emL1-41" value="&lt;ul&gt;&lt;li&gt;No need to manage Node.js installation&lt;/li&gt;&lt;li&gt;Expensive to host and scale&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="etOJwjgyMubkftZ0emL1-41" value="&lt;ul&gt;&lt;li&gt;No need to manage Node.js installation&lt;/li&gt;&lt;li&gt;Supports containers&lt;/li&gt;&lt;li&gt;Expensive to host and scale&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="274" y="1410" width="210" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="etOJwjgyMubkftZ0emL1-42" value="&lt;ul&gt;&lt;li&gt;No need to manage Node.js installation&lt;/li&gt;&lt;li&gt;Recovery options poor&lt;/li&gt;&lt;li&gt;Limited configuration including identity management&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="etOJwjgyMubkftZ0emL1-42" value="&lt;ul&gt;&lt;li&gt;No need to manage Node.js installation&lt;/li&gt;&lt;li&gt;Supports containers&lt;/li&gt;&lt;li&gt;Recovery options poor&lt;/li&gt;&lt;li&gt;Limited configuration including identity management&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="532.5" y="1410" width="210" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="etOJwjgyMubkftZ0emL1-43" value="&lt;ul&gt;&lt;li&gt;Need to manage Node.js installation&lt;/li&gt;&lt;li&gt;All services share same Node.js runtime&lt;/li&gt;&lt;li&gt;Need to manage web hosting, eg Apache, NGINX, Docker, PM2..&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="etOJwjgyMubkftZ0emL1-43" value="&lt;ul&gt;&lt;li&gt;No need to manage Node.js installation&lt;/li&gt;&lt;li&gt;Offer often behind Node LTS&lt;br&gt;&lt;/li&gt;&lt;li&gt;Node.js does not have as many features as .NET&lt;/li&gt;&lt;li&gt;Premium tier does not have &quot;safe&quot; npm installs&lt;/li&gt;&lt;li&gt;Tight coupling&lt;/li&gt;&lt;li&gt;Supports containers&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="11" y="1700" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="etOJwjgyMubkftZ0emL1-44" value="&lt;ul&gt;&lt;li&gt;Supports containers&lt;/li&gt;&lt;li&gt;No tight coupling&lt;/li&gt;&lt;li&gt;Auto recovery&lt;/li&gt;&lt;li&gt;Auto scaling&lt;/li&gt;&lt;li&gt;High availability across all region zones&lt;/li&gt;&lt;li&gt;Abstraction of infrastructure&lt;/li&gt;&lt;li&gt;Steep learning curve&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="268.25" y="1700" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="etOJwjgyMubkftZ0emL1-45" value="&lt;ul&gt;&lt;li&gt;Supports containers&lt;/li&gt;&lt;li&gt;No tight coupling&lt;/li&gt;&lt;li&gt;Auto recovery&lt;/li&gt;&lt;li&gt;Auto scaling&lt;/li&gt;&lt;li&gt;High availability across all region zones&lt;/li&gt;&lt;li&gt;Abstraction of AKS&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="546.25" y="1700" width="210" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
