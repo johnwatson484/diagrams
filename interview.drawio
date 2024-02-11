@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-11T12:10:52.476Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="c44XYgWlAFhUxMSMHBfz" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-11T12:12:25.575Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="gW6LhrFDwtHc31Slj_ea" version="23.1.1" type="github">
   <diagram name="Page-1" id="x9AYoagkFjPnIj1YDkNX">
     <mxGraphModel dx="2026" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -201,7 +201,7 @@
         <mxCell id="etOJwjgyMubkftZ0emL1-73" value="Azure App Configuration" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/integration/App_Configuration.svg;" parent="1" vertex="1">
           <mxGeometry x="793" y="2354" width="64" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="etOJwjgyMubkftZ0emL1-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.012;entryY=0.544;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="etOJwjgyMubkftZ0emL1-53" target="etOJwjgyMubkftZ0emL1-73" edge="1">
+        <mxCell id="etOJwjgyMubkftZ0emL1-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.012;entryY=0.544;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.985;exitY=0.754;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="etOJwjgyMubkftZ0emL1-53" target="etOJwjgyMubkftZ0emL1-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="etOJwjgyMubkftZ0emL1-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.015;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="etOJwjgyMubkftZ0emL1-73" target="etOJwjgyMubkftZ0emL1-71" edge="1">
@@ -291,6 +291,16 @@
         </mxCell>
         <mxCell id="etOJwjgyMubkftZ0emL1-123" value="&lt;ul&gt;&lt;li&gt;Code quality analysis&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1331.51" y="3070" width="144.99" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="eWcNgWBuKqiSbJrYkR3O-1" value="Azure Container Registry" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/containers/Container_Registries.svg;" vertex="1" parent="1">
+          <mxGeometry x="791" y="2100" width="68" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="eWcNgWBuKqiSbJrYkR3O-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.015;entryY=0.393;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="etOJwjgyMubkftZ0emL1-53" target="eWcNgWBuKqiSbJrYkR3O-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="2124" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
