@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-02-11T12:12:25.575Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="gW6LhrFDwtHc31Slj_ea" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-11T13:00:11.945Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="5BWerP42QJIp8LWxqVsq" version="23.1.1" type="github">
   <diagram name="Page-1" id="x9AYoagkFjPnIj1YDkNX">
     <mxGraphModel dx="2026" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="eWcNgWBuKqiSbJrYkR3O-27" value="App Container Plan" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="3280" width="150" height="410" as="geometry" />
+        </mxCell>
         <mxCell id="etOJwjgyMubkftZ0emL1-94" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;align=left;" parent="1" vertex="1">
           <mxGeometry x="153" y="1920" width="1160" height="770" as="geometry" />
         </mxCell>
@@ -301,6 +304,66 @@
               <mxPoint x="670" y="2124" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="eWcNgWBuKqiSbJrYkR3O-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eWcNgWBuKqiSbJrYkR3O-5" target="eWcNgWBuKqiSbJrYkR3O-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eWcNgWBuKqiSbJrYkR3O-5" value="GitHub" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/picons-social/57/github_rounded-128.png" vertex="1" parent="1">
+          <mxGeometry x="391" y="3574" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="eWcNgWBuKqiSbJrYkR3O-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eWcNgWBuKqiSbJrYkR3O-6" target="eWcNgWBuKqiSbJrYkR3O-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eWcNgWBuKqiSbJrYkR3O-6" value="Authentication service" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png;" vertex="1" parent="1">
+          <mxGeometry x="232" y="3320.0000000000005" width="68" height="74.86" as="geometry" />
+        </mxCell>
+        <mxCell id="eWcNgWBuKqiSbJrYkR3O-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eWcNgWBuKqiSbJrYkR3O-7" target="eWcNgWBuKqiSbJrYkR3O-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eWcNgWBuKqiSbJrYkR3O-7" value="Registration service" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png;" vertex="1" parent="1">
+          <mxGeometry x="232" y="3570.57" width="68" height="74.86" as="geometry" />
+        </mxCell>
+        <mxCell id="eWcNgWBuKqiSbJrYkR3O-8" value="&lt;ul&gt;&lt;li&gt;OAuth2 authentication service&lt;/li&gt;&lt;li&gt;RESTful endpoints for well known, authentication, access code, public key and token refresh&lt;/li&gt;&lt;li&gt;Creates and manages session of JWT tokens&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="136.55" y="3420" width="264.49" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="eWcNgWBuKqiSbJrYkR3O-9" value="&lt;ul&gt;&lt;li&gt;Registration processing service&lt;/li&gt;&lt;li&gt;RESTful endpoints for submitting new registration for transfer&lt;br&gt;&lt;/li&gt;&lt;li&gt;Validation of registration&lt;/li&gt;&lt;li&gt;Restricted to valid authenticated sessions&lt;/li&gt;&lt;li&gt;Protective monitoring of registration activity&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="136.55" y="3670" width="264.49" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="eWcNgWBuKqiSbJrYkR3O-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eWcNgWBuKqiSbJrYkR3O-11" target="eWcNgWBuKqiSbJrYkR3O-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eWcNgWBuKqiSbJrYkR3O-11" value="Docker Container" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
+          <mxGeometry x="709" y="3580.12" width="68" height="55.76" as="geometry" />
+        </mxCell>
+        <mxCell id="eWcNgWBuKqiSbJrYkR3O-13" value="Azure Container App" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Container_App_Environments.svg;" vertex="1" parent="1">
+          <mxGeometry x="868.5" y="3574" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="eWcNgWBuKqiSbJrYkR3O-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eWcNgWBuKqiSbJrYkR3O-15" target="eWcNgWBuKqiSbJrYkR3O-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eWcNgWBuKqiSbJrYkR3O-15" value="Azure DevOps" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/devops/Azure_DevOps.svg;" vertex="1" parent="1">
+          <mxGeometry x="552" y="3576" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="eWcNgWBuKqiSbJrYkR3O-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eWcNgWBuKqiSbJrYkR3O-20" target="eWcNgWBuKqiSbJrYkR3O-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eWcNgWBuKqiSbJrYkR3O-20" value="GitHub" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/picons-social/57/github_rounded-128.png" vertex="1" parent="1">
+          <mxGeometry x="391" y="3323.43" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="eWcNgWBuKqiSbJrYkR3O-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eWcNgWBuKqiSbJrYkR3O-22" target="eWcNgWBuKqiSbJrYkR3O-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eWcNgWBuKqiSbJrYkR3O-22" value="Docker Container" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
+          <mxGeometry x="709" y="3329.5499999999997" width="68" height="55.76" as="geometry" />
+        </mxCell>
+        <mxCell id="eWcNgWBuKqiSbJrYkR3O-23" value="Azure Container App" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Container_App_Environments.svg;" vertex="1" parent="1">
+          <mxGeometry x="868.5" y="3323.43" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="eWcNgWBuKqiSbJrYkR3O-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eWcNgWBuKqiSbJrYkR3O-25" target="eWcNgWBuKqiSbJrYkR3O-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eWcNgWBuKqiSbJrYkR3O-25" value="Azure DevOps" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/devops/Azure_DevOps.svg;" vertex="1" parent="1">
+          <mxGeometry x="552" y="3325.43" width="64" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
