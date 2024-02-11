@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-11T13:00:11.945Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="5BWerP42QJIp8LWxqVsq" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-11T13:07:33.568Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="VMOSvbQAF6Ij00qNMXDr" version="23.1.1" type="github">
   <diagram name="Page-1" id="x9AYoagkFjPnIj1YDkNX">
     <mxGraphModel dx="2026" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -247,9 +247,6 @@
         <mxCell id="etOJwjgyMubkftZ0emL1-101" value="GitHub" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/picons-social/57/github_rounded-128.png" parent="1" vertex="1">
           <mxGeometry x="120" y="2920" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="etOJwjgyMubkftZ0emL1-102" value="Node.js&#xa;REST API" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png;" parent="1" vertex="1">
-          <mxGeometry x="630" y="2324" width="27.25" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="etOJwjgyMubkftZ0emL1-103" value="&lt;ul&gt;&lt;li&gt;Open source code for Node.js REST API&lt;/li&gt;&lt;li&gt;Feature branch development to support rapid iteration&lt;/li&gt;&lt;li&gt;Every commit triggers CI&lt;/li&gt;&lt;li&gt;Release note supports every change&lt;/li&gt;&lt;li&gt;Every change semantically versioned&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="90" y="3070" width="264.49" height="110" as="geometry" />
         </mxCell>
@@ -364,6 +361,19 @@
         </mxCell>
         <mxCell id="eWcNgWBuKqiSbJrYkR3O-25" value="Azure DevOps" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/devops/Azure_DevOps.svg;" vertex="1" parent="1">
           <mxGeometry x="552" y="3325.43" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="eWcNgWBuKqiSbJrYkR3O-28" value="Azure PostgreSQL" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Database_for_PostgreSQL_servers.svg;" vertex="1" parent="1">
+          <mxGeometry x="532.5" y="2372" width="38" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eWcNgWBuKqiSbJrYkR3O-29" value="Azure Cache for Redis" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Cache_Redis.svg;" vertex="1" parent="1">
+          <mxGeometry x="645" y="2370" width="64" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="eWcNgWBuKqiSbJrYkR3O-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.566;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="etOJwjgyMubkftZ0emL1-53" target="eWcNgWBuKqiSbJrYkR3O-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="554" y="2280" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
