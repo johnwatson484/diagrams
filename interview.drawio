@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-11T20:55:32.514Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="gThgO3k_gRBXpSbaGgKe" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-11T21:10:26.737Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="jCSSAP3MvM5KOitWI8M_" version="23.1.1" type="github">
   <diagram name="Page-1" id="x9AYoagkFjPnIj1YDkNX">
     <mxGraphModel dx="2026" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -21,12 +21,6 @@
         </mxCell>
         <mxCell id="etOJwjgyMubkftZ0emL1-94" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;align=left;" parent="1" vertex="1">
           <mxGeometry x="153" y="1920" width="1160" height="770" as="geometry" />
-        </mxCell>
-        <mxCell id="etOJwjgyMubkftZ0emL1-98" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;align=left;" parent="1" vertex="1">
-          <mxGeometry x="343" y="2480" width="700" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="etOJwjgyMubkftZ0emL1-96" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;align=left;" parent="1" vertex="1">
-          <mxGeometry x="343" y="1940" width="700" height="530" as="geometry" />
         </mxCell>
         <mxCell id="etOJwjgyMubkftZ0emL1-84" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;align=left;" parent="1" vertex="1">
           <mxGeometry x="493" y="1950" width="543" height="510" as="geometry" />
@@ -223,7 +217,7 @@
           <mxGeometry x="970.36" y="2020" width="31.29" height="38" as="geometry" />
         </mxCell>
         <mxCell id="etOJwjgyMubkftZ0emL1-87" value="Region 1&lt;br&gt;(UK South)" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Subscriptions.svg;" parent="1" vertex="1">
-          <mxGeometry x="365.61" y="1950" width="24.79" height="40" as="geometry" />
+          <mxGeometry x="521.46" y="1960" width="24.79" height="40" as="geometry" />
         </mxCell>
         <mxCell id="etOJwjgyMubkftZ0emL1-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="etOJwjgyMubkftZ0emL1-88" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -234,7 +228,7 @@
           <mxGeometry x="493" y="2490" width="543" height="185" as="geometry" />
         </mxCell>
         <mxCell id="etOJwjgyMubkftZ0emL1-89" value="Region 2&lt;br&gt;(North Europe)" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Subscriptions.svg;" parent="1" vertex="1">
-          <mxGeometry x="376.25" y="2490" width="24.79" height="40" as="geometry" />
+          <mxGeometry x="527.21" y="2500" width="24.79" height="40" as="geometry" />
         </mxCell>
         <mxCell id="etOJwjgyMubkftZ0emL1-95" value="Defra Azure" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logos-world.net/wp-content/uploads/2021/03/Azure-Logo-2020-present.png;" parent="1" vertex="1">
           <mxGeometry x="163" y="1950" width="100" height="60" as="geometry" />
@@ -373,17 +367,11 @@
         <mxCell id="eWcNgWBuKqiSbJrYkR3O-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eWcNgWBuKqiSbJrYkR3O-32" target="etOJwjgyMubkftZ0emL1-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="eWcNgWBuKqiSbJrYkR3O-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eWcNgWBuKqiSbJrYkR3O-32" target="etOJwjgyMubkftZ0emL1-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eWcNgWBuKqiSbJrYkR3O-32" value="Azure API&lt;br&gt;Management" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/API_Management_Services.svg;" vertex="1" parent="1">
           <mxGeometry x="385" y="2229.75" width="65" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="eWcNgWBuKqiSbJrYkR3O-36" value="Azure API&lt;br&gt;Management" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/API_Management_Services.svg;" vertex="1" parent="1">
-          <mxGeometry x="376.25" y="2580" width="65" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="eWcNgWBuKqiSbJrYkR3O-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.517;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="etOJwjgyMubkftZ0emL1-49" target="eWcNgWBuKqiSbJrYkR3O-36">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eWcNgWBuKqiSbJrYkR3O-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.002;entryY=0.649;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eWcNgWBuKqiSbJrYkR3O-36" target="etOJwjgyMubkftZ0emL1-88">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eWcNgWBuKqiSbJrYkR3O-40" value="GitHub" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/picons-social/57/github_rounded-128.png" vertex="1" parent="1">
           <mxGeometry x="1510" y="2963.64" width="68" height="68" as="geometry" />
