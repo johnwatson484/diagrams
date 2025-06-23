@@ -4,6 +4,39 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sB92mYzectUGbJ5OnRH--9" value="Kubeadm" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="150" y="200" width="300" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="sB92mYzectUGbJ5OnRH--1" value="Master" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="240" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sB92mYzectUGbJ5OnRH--2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/operating-system-flat-1/30/ubuntu-128.png" vertex="1" parent="1">
+          <mxGeometry x="285" y="292" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sB92mYzectUGbJ5OnRH--3" value="Worker 1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="165" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sB92mYzectUGbJ5OnRH--4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/operating-system-flat-1/30/ubuntu-128.png" vertex="1" parent="1">
+          <mxGeometry x="210" y="382" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sB92mYzectUGbJ5OnRH--5" value="Worker 2" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="320" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sB92mYzectUGbJ5OnRH--6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/operating-system-flat-1/30/ubuntu-128.png" vertex="1" parent="1">
+          <mxGeometry x="365" y="382" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sB92mYzectUGbJ5OnRH--7" value="&lt;div&gt;Services&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="360" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sB92mYzectUGbJ5OnRH--8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/operating-system-flat-1/30/ubuntu-128.png" vertex="1" parent="1">
+          <mxGeometry x="405" y="542" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sB92mYzectUGbJ5OnRH--10" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Kubernetes.svg;" vertex="1" parent="1">
+          <mxGeometry x="285" y="230" width="30" height="28.8" as="geometry" />
+        </mxCell>
+        <mxCell id="sB92mYzectUGbJ5OnRH--11" value="Cloudflare" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="70" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
